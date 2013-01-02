@@ -90,10 +90,6 @@ foreach ($nav as $i => &$j) {
 <div id="content">
 
 <div id="ad-space">
-<?php
-if (/*rand(0, 1)*/0 == 0) {
-// Large ad
-?>
 <script type="text/javascript"><!--
 google_ad_client = "ca-pub-9146387889076075";
 google_ad_slot = "8781150817";
@@ -104,23 +100,6 @@ google_ad_height = 90;
 <script type="text/javascript"
 src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
-<?php
-} else {
-// Smaller ad
-?>
-<script type="text/javascript"><!--
-google_ad_client = "ca-pub-9146387889076075";
-google_ad_slot = "7648598867";
-google_ad_width = 468;
-google_ad_height = 60;
-//-->
-</script>
-<script type="text/javascript"
-src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-<?php
-}
-?>
 </div>
 
 <?php emptyblock('content') ?>
@@ -136,4 +115,3 @@ See <a href="contributors">contributors</a>, <a href="licence">licensing informa
 </div>
 </body>
 </html>
-
