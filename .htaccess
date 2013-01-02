@@ -1,0 +1,76 @@
+###
+# This file is part of the pokemonlab.com web site.
+# Copyright (C) 2012-2013  Cathy Fitzpatrick
+#
+# This web site is free. This file is licensed under the Creative Commons
+# Attribution-ShareAlike 3.0 Unported License. To view a copy of this
+# licence, visit http://creativecommons.org/licenses/by-sa/3.0
+#
+# See http://pokemonlab.com/licence for more details, including information
+# on how to attribute content to this web site.
+###
+
+RewriteEngine On
+Options FollowSymLinks
+
+RewriteBase /
+ErrorDocument 403 /error403.php
+ErrorDocument 404 /error404.php
+
+# For trac.poke-lab.com, just redirect to the index except for the hg browser.
+RewriteCond %{HTTP_HOST}    ^trac.poke-lab.com
+RewriteCond %{REQUEST_URI}  !^/browser/
+RewriteCond %{REQUEST_URI}  !^/browser$
+RewriteRule ^(.*)           http://pokemonlab.com/    [R=301,L]
+
+# Redirect forum.poke-lab.com to the forum archive.
+RewriteCond %{HTTP_HOST}    ^forum.poke-lab.com
+RewriteRule ^(.*)           http://pokemonlab.com/forum-archive/$1  [R=301,L]
+
+# Set host to pokemonlab.com.
+RewriteCond %{HTTP_HOST}    !^pokemonlab.com
+RewriteCond %{HTTP_HOST}    !^$
+RewriteRule ^(.*)           http://pokemonlab.com/$1  [R=301,L]
+
+# Redirects for the Mercurial repository.
+RewriteCond %{REQUEST_URI}  ^/hg/        [OR]
+RewriteCond %{REQUEST_URI}  ^/hg$        [OR]
+RewriteCond %{REQUEST_URI}  ^/browser/   [OR]
+RewriteCond %{REQUEST_URI}  ^/browser$
+RewriteRule ^[^/]*/?(.*)     http://shoddybattle.hg.sf.net/hgweb/shoddybattle/$1 [R=301,L]
+
+# Redirect /forum to the forum archive.
+RewriteCond %{REQUEST_URI}  ^/forum/    [OR]
+RewriteCond %{REQUEST_URI}  ^/forum$
+RewriteRule ^[^/]*/?(.*)    forum-archive/$1 [R=301,L]
+
+# Canonicalise the forum index URI to avoid two entries in Analytics.
+RewriteRule ^forum-archive/index\.php$ forum-archive/ [R=301,L]
+
+# Preserve a couple of old URIs.
+RewriteRule ^stats$ stats-archive [R=301,L]
+RewriteRule ^privacy_policy$ privacy-policy [R=301,L]
+RewriteRule ^faq$ about [R=301,L]
+RewriteRule ^sources$ licence [R=301,L]
+RewriteRule ^license$ licence [R=301,L]
+RewriteRule ^platinum$ history#2008 [NE,R=301,L]
+RewriteRule ^old_news$ history [R=301,L]
+RewriteRule ^ladder$ about#statistical-data [NE,R=301,L]
+RewriteRule ^leaderboard$ about#statistical-data [NE,R=301,L]
+RewriteRule ^home_page$ / [R=301,L]
+
+# Consolidate some duplicate URIs.
+RewriteRule ^shoddybattle\.png$ images/shoddybattle-logo.png [R=301,L]
+RewriteRule ^images/pokelablogo\.png$ images/pokelab-logo.png [R=301,L]
+RewriteRule ^images/pokelablogo-small\.png$ images/pokelab-logo-small.png [R=301,L]
+RewriteRule ^images/pokelablogolarge\.png$ images/pokelab-logo-large.png [R=301,L]
+RewriteRule ^favicon\.gif$ images/favicon.gif [R=301,L]
+
+# Prettier URIs for the client downloads.
+RewriteRule ^client/shoddybattle$ client/shoddybattle.php [L]
+RewriteRule ^pokelab-client/pokelab$ pokelab-client/pokelab.php [L]
+
+# Append .php to the end of the request if a corresponding .php file exists.
+RewriteCond $1.php -F
+RewriteRule ^([^\./]+)$ $1.php
+

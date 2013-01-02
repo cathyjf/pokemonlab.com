@@ -1,0 +1,146 @@
+/**
+ * This file is part of the pokemonlab.com web site.
+ * Copyright (C) 2012-2013  Cathy Fitzpatrick
+ *
+ * This web site is free. This file is licensed under the Creative Commons
+ * Attribution-ShareAlike 3.0 Unported License. To view a copy of this
+ * licence, visit http://creativecommons.org/licenses/by-sa/3.0
+ *
+ * See http://pokemonlab.com/licence for more details, including information
+ * on how to attribute content to this web site.
+ *
+ * The following additional people contributed to this file:
+ *   - Guangcong Luo (Zarel) <http://zarel.github.com/>
+ */
+
+html {
+    background-color: white;
+    color: black;
+    font-family: sans-serif;
+    text-align: left;
+    margin: 0;
+    padding: 0;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+div#top-bar {
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+div#top-bar a {
+    text-decoration: none;
+}
+div#ad-space {
+    text-align: center;
+    margin: 25px auto;
+}
+div#logos {
+    float: left;
+    text-align: center;
+    width: 206px;
+    padding: 5px;
+}
+div#navigation {
+    clear: both;
+    text-align: center;
+    border-bottom: 2px rgb(180,186,224) solid;
+    padding: 4px 0;
+}
+div#navigation ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+div#navigation li {
+    display: inline;
+    margin-right: 4px;
+}
+div#navigation li a {
+    text-decoration: none;
+    color: white;
+    background-color: rgb(123, 130, 182);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 12px;
+    padding-right: 12px;
+    border: 1px rgb(180,186,224) solid;
+}
+div#navigation li a:hover {
+    background-color: rgb(84,92,154);
+}
+div#navigation li a.selected {
+    background-color: rgb(180,186,224);
+}
+div#content {
+    min-height: 300px;
+    padding: 0 20px;
+    max-width: 800px;
+    margin: 5px auto;
+}
+div#footer {
+    text-align: center;
+    font-size: 70%;
+    color: #555;
+    max-width: 800px;
+    margin: 4em auto 1em;
+}
+h1, h2, h3 {
+    color: rgb(84,92,154);
+}
+h1 {
+    font-size: 120%;
+    border-bottom: 1px rgb(180,186,224) solid;
+    padding: 5px;
+}
+h2 {
+    font-size: 100%;
+}
+h3 {
+    font-size: 90%;
+    font-weight: normal;
+    font-style: italic;
+}
+a {
+    color: rgb(84,92,154);
+}
+a:hover {
+    text-decoration: none;
+}
+img.poke-lab-logo {
+    width: 139px;
+    height: 70px;
+    margin-right: 20px;
+    border: 0;
+}
+img.shoddybattle-logo {
+    width: 206px;
+    height: 42px;
+    margin-bottom: 14px;
+    border: 0;
+}
+.main-developer-contact-info {
+    padding-left: 25px;
+    font-size: 80%;
+    margin-top: -10px;
+}
+.detailed-list li {
+    padding-bottom: 10px;
+}
+.detailed-list-info {
+    padding-left: 15px;
+    font-size: 90%;
+}
+.traffic-table-cell {
+    vertical-align: top;
+    padding-right: 30px;
+}
+.traffic-table-cell tbody th {
+    padding-right: 10px;
+}
