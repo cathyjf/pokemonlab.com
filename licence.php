@@ -15,13 +15,13 @@ $_CURRENT_SECTION = '';
 require 'layout.php';
 ?>
 
-<?php startblock('title-postfix') ?> - Licensing information<?php endblock() ?>
+<?php startblock('title-postfix') ?> - Source code and licensing information<?php endblock() ?>
 
 <?php startblock('content') ?>
 
-<h1>Licensing information</h1>
+<h1>Source code and licensing information</h1>
 
-<p>This page provides information on the copyright licences applicable to this project.</p>
+<p>This page provides access to the source code and information on the copyright licences applicable to this project.</p>
 
 <h2>Shoddy Battle and Pok&eacute;mon Lab</h2>
 
