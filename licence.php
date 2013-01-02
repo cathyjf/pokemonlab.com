@@ -35,10 +35,20 @@ require 'layout.php';
 
 <p>In December 2012, <a href="contributors#Cathy">Cathy</a> wrote all the content for the present <code>pokemonlab.com</code> web site and designed an initial draft of the new layout. <a href="http://zarel.github.com/">Zarel</a> helped revise the layout.</p>
 
-<p>This web site is free. The source code for this web site is available in the <a href="http://shoddybattle.hg.sf.net/hgweb/shoddybattle/pokemonlab.com/"><code>pokemonlab.com</code>
+<table>
+<tr>
+<td>
+This web site is free. The source code for this web site is available in the <a href="http://shoddybattle.hg.sf.net/hgweb/shoddybattle/pokemonlab.com/"><code>pokemonlab.com</code>
 Mercurial repository</a>. See the licence notice at the top of each individual file for information on the licence applicable to that file. Most content on this web site is
-licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0">Creative Commons Attribution-ShareAlike 3.0 Unported License</a> ("CC-BY-SA"). If you use content from
-this web site pursuant to the CC-BY-SA, you must attribute it to <code>pokemonlab.com</code>.</p>
+licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a> ("CC-BY-SA"). If you use content from
+this web site pursuant to the CC-BY-SA, you must attribute it to <code>pokemonlab.com</code>.
+</td>
+<td style="margin-left: 10px;">
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" 
+src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a>
+</td>
+</tr>
+</table>
 
 <p>The <code>pokemonlab.com</code> web site is also accessible under the domains <code>poke-lab.com</code> and <code>shoddybattle.com</code>.</p>
 
