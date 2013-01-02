@@ -38,7 +38,7 @@ require 'layout.php';
 <p>This web site is free. The source code for this web site is available in the <a href="http://shoddybattle.hg.sf.net/hgweb/shoddybattle/pokemonlab.com/"><code>pokemonlab.com</code>
 Mercurial repository</a>. See the licence notice at the top of each individual file for information on the licence applicable to that file. Most content on this web site is
 licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0">Creative Commons Attribution-ShareAlike 3.0 Unported License</a> ("CC-BY-SA"). If you use content from
-this web site purusant to the CC-BY-SA, you must attribute it to <code>pokemonlab.com</code>.</p>
+this web site pursuant to the CC-BY-SA, you must attribute it to <code>pokemonlab.com</code>.</p>
 
 <p>The <code>pokemonlab.com</code> web site is also accessible under the domains <code>poke-lab.com</code> and <code>shoddybattle.com</code>.</p>
 
