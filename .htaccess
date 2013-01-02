@@ -65,6 +65,7 @@ RewriteRule ^images/pokelablogo\.png$ images/pokelab-logo.png [R=301,L]
 RewriteRule ^images/pokelablogo-small\.png$ images/pokelab-logo-small.png [R=301,L]
 RewriteRule ^images/pokelablogolarge\.png$ images/pokelab-logo-large.png [R=301,L]
 RewriteRule ^favicon\.gif$ images/favicon.gif [R=301,L]
+RewriteRule ^server/ShoddyBattle\.jar$ client/ShoddyBattle.jar [R=301,L]
 
 # Prettier URIs for the client downloads.
 RewriteRule ^client/shoddybattle$ client/shoddybattle.php [L]
@@ -74,6 +75,7 @@ RewriteRule ^pokelab-client/pokelab$ pokelab-client/pokelab.php [L]
 RewriteRule ^setup-database\.php$ - [F]
 RewriteRule ^ti\.php$ - [F]
 RewriteRule ^layout\.php$ - [F]
+RewriteRule ^stats-construct-list\.php$ - [F]
 
 # Append .php to the end of the request if a corresponding .php file exists.
 RewriteCond $1.php -F
