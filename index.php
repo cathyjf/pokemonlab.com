@@ -36,7 +36,7 @@ require 'layout.php';
 <li><a href="about#free-software">Free, open source, and cross-platform software</a>
 <div class="detailed-list-info">
 
-<p>Before Shoddy Battle, previous simulators had been closed source and controlled by particular individuals. By contrast, Shoddy Battle was truly a community project &mdash; its open design led to improved security, greater sense of community ownership, enhanced understanding of Pok&eacute;mon mechanics (because interested users could and did read the source code), and made possible <a href="contributors">contributions</a> by anyone who wanted to help. The Shoddy Battle codebase was also re-used by several other Pok&eacute;mon projects.</p>
+<p>Before Shoddy Battle, previous simulators had been closed source and controlled by particular individuals. By contrast, Shoddy Battle was truly a community project &mdash; its open design led to improved security, greater sense of community ownership, enhanced understanding of Pok&eacute;mon mechanics (because interested users could and did read the <a href="licence">source code</a>), and made possible <a href="contributors">contributions</a> by anyone who wanted to help. The Shoddy Battle codebase was also re-used by several other Pok&eacute;mon projects.</p>
 
 <p>Shoddy Battle's open source nature and the benefits that flowed from it effected a significant shift in the Pok&eacute;mon community and all subsequent simulators have continued to be free and open source.</p>
 
