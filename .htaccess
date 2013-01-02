@@ -72,8 +72,8 @@ RewriteRule ^pokelab-client/pokelab$ pokelab-client/pokelab.php [L]
 
 # Deny web access to some files.
 RewriteRule ^setup-database\.php$ - [F]
-RewriteRule ti\.php - [F]
-RewriteRule layout\.php - [F]
+RewriteRule ^ti\.php$ - [F]
+RewriteRule ^layout\.php$ - [F]
 
 # Append .php to the end of the request if a corresponding .php file exists.
 RewriteCond $1.php -F
