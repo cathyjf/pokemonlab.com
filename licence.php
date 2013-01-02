@@ -27,7 +27,16 @@ require 'layout.php';
 
 <p>Shoddy Battle and Pok&eacute;mon Lab are &copy; 2006&ndash;2012 by Cathy Fitzpatrick, Benjamin Gwin, and others. See information on <a href="contributors">authors and contributors</a>.</p>
 
-<p>Shoddy Battle and Pok&eacute;mon Lab are <a href="http://www.gnu.org/philosophy/free-sw.html">free software</a> and open source; all of the source code is licensed under the terms of the <a href="http://www.fsf.org/licensing/licenses/agpl-3.0.html">GNU AGPL v3+</a> unless otherwise indicated. The Pok&eacute;mon Lab source code is available in the <a href="http://shoddybattle.hg.sf.net/hgweb/shoddybattle/">Mercurial repositories</a>. See the licence notice at the top of each individual file for details on the licence applicable to that file.</p>
+<table>
+<tr>
+<td>
+Shoddy Battle and Pok&eacute;mon Lab are <a href="http://www.gnu.org/philosophy/free-sw.html">free software</a> and open source; all of the source code is licensed under the terms of the <a href="http://www.fsf.org/licensing/licenses/agpl-3.0.html">GNU AGPL v3+</a> unless otherwise indicated. The Pok&eacute;mon Lab source code is available in the <a href="http://shoddybattle.hg.sf.net/hgweb/shoddybattle/">Mercurial repositories</a>. See the licence notice at the top of each individual file for details on the licence applicable to that file.
+</td>
+<td style="padding-left: 10px;">
+<a href="http://www.fsf.org/licensing/licenses/agpl-3.0.html"><img src="https://www.gnu.org/graphics/agplv3-88x31.png" alt="GNU Affero General Public License v3" style="border-width: 0;" /></a>
+</td>
+</tr>
+</table>
 
 <h2>pokemonlab.com</h2>
 
@@ -43,9 +52,8 @@ Mercurial repository</a>. See the licence notice at the top of each individual f
 licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a> ("CC-BY-SA"). If you use content from
 this web site pursuant to the CC-BY-SA, you must attribute it to <code>pokemonlab.com</code>.
 </td>
-<td style="margin-left: 10px;">
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" 
-src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a>
+<td style="padding-left: 10px;">
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width: 0;" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a>
 </td>
 </tr>
 </table>
