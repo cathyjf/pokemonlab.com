@@ -66,6 +66,7 @@ RewriteRule ^images/pokelablogo-small\.png$ images/pokelab-logo-small.png [R=301
 RewriteRule ^images/pokelablogolarge\.png$ images/pokelab-logo-large.png [R=301,L]
 RewriteRule ^favicon\.gif$ images/favicon.gif [R=301,L]
 RewriteRule ^server/ShoddyBattle\.jar$ client/ShoddyBattle.jar [R=301,L]
+RewriteRule ^metaserver\.txt$ client/metaserver.txt [R=301,L]
 
 # Prettier URIs for the client downloads.
 RewriteRule ^client/shoddybattle$ client/shoddybattle.php [L]
