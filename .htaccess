@@ -74,10 +74,10 @@ RewriteRule ^client/shoddybattle$ client/shoddybattle.php [L]
 RewriteRule ^pokelab-client/pokelab$ pokelab-client/pokelab.php [L]
 
 # Deny web access to some files.
-RewriteRule ^setup-database$ - [F]
-RewriteRule ^ti$ - [F]
-RewriteRule ^layout$ - [F]
-RewriteRule ^stats-construct-list$ - [F]
+RewriteRule ^content/setup-database\.php$ - [F]
+RewriteRule ^content/ti\.php$ - [F]
+RewriteRule ^content/layout\.php$ - [F]
+RewriteRule ^content/stats-construct-list\.php$ - [F]
 RewriteRule ^content/$ - [F]
 
 # Serve the index if requested.
