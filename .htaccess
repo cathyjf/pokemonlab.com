@@ -78,9 +78,10 @@ RewriteRule ^setup-database$ - [F]
 RewriteRule ^ti$ - [F]
 RewriteRule ^layout$ - [F]
 RewriteRule ^stats-construct-list$ - [F]
+RewriteRule ^content/$ - [F]
 
 # Serve the index if requested.
-RewriteRule ^$ content/ [L]
+RewriteRule ^$ content/index.php [L]
 
 # Serve content/{request}.php if it exists.
 RewriteCond content/$1.php -F
