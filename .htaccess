@@ -79,10 +79,6 @@ RewriteRule ^ti$ - [F]
 RewriteRule ^layout$ - [F]
 RewriteRule ^stats-construct-list$ - [F]
 
-# Deny web access to *.php in the content directory.
-RewriteCond %{REQUEST_URI} ^/content/[^\.]*\.php$
-RewriteRule ^(.*) - [F]
-
 # Serve the index if requested.
 RewriteRule ^$ content/ [L]
 
