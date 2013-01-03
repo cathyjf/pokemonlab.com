@@ -144,3 +144,8 @@ img.shoddybattle-logo {
 .traffic-table-cell tbody th {
     padding-right: 10px;
 }
+table.borderless, table.borderless td, table.borderless tr {
+    border-collapse: collapse; 
+    margin: 0;
+    padding: 0;
+}

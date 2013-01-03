@@ -27,7 +27,7 @@ require 'layout.php';
 
 <p>Shoddy Battle and Pok&eacute;mon Lab are &copy; 2006&ndash;2012 by Cathy Fitzpatrick, Benjamin Gwin, and others. See information on <a href="contributors">authors and contributors</a>.</p>
 
-<table>
+<table class="borderless">
 <tr>
 <td>
 Shoddy Battle and Pok&eacute;mon Lab are <a href="http://www.gnu.org/philosophy/free-sw.html">free software</a> and open source; all of the source code is licensed under the terms of the <a href="http://www.fsf.org/licensing/licenses/agpl-3.0.html">GNU AGPL v3+</a> unless otherwise indicated. The Pok&eacute;mon Lab source code is available in the <a href="http://shoddybattle.hg.sf.net/hgweb/shoddybattle/">Mercurial repositories</a>. See the licence notice at the top of each individual file for details on the licence applicable to that file.
@@ -44,7 +44,7 @@ Shoddy Battle and Pok&eacute;mon Lab are <a href="http://www.gnu.org/philosophy/
 
 <p>In December 2012, <a href="contributors#Cathy">Cathy</a> wrote all the content for the present <code>pokemonlab.com</code> web site and designed an initial draft of the new layout. <a href="http://zarel.github.com/">Zarel</a> helped revise the layout.</p>
 
-<table>
+<table class="borderless">
 <tr>
 <td>
 This web site is free. The source code for this web site is available in the <a href="http://shoddybattle.hg.sf.net/hgweb/shoddybattle/pokemonlab.com/"><code>pokemonlab.com</code>
