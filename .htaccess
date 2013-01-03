@@ -14,8 +14,8 @@ RewriteEngine On
 Options FollowSymLinks
 
 RewriteBase /
-ErrorDocument 403 /error403.php
-ErrorDocument 404 /error404.php
+ErrorDocument 403 /content/error403.php
+ErrorDocument 404 /content/error404.php
 
 # For trac.poke-lab.com, just redirect to the index except for the hg browser.
 RewriteCond %{HTTP_HOST}    ^trac.poke-lab.com
@@ -67,17 +67,25 @@ RewriteRule ^images/pokelablogolarge\.png$ images/pokelab-logo-large.png [R=301,
 RewriteRule ^favicon\.gif$ images/favicon.gif [R=301,L]
 RewriteRule ^server/ShoddyBattle\.jar$ client/ShoddyBattle.jar [R=301,L]
 RewriteRule ^metaserver\.txt$ client/metaserver.txt [R=301,L]
+RewriteRule ^style\.css$ content/style.css [R=301,L]
 
 # Prettier URIs for the client downloads.
 RewriteRule ^client/shoddybattle$ client/shoddybattle.php [L]
 RewriteRule ^pokelab-client/pokelab$ pokelab-client/pokelab.php [L]
 
 # Deny web access to some files.
-RewriteRule ^setup-database\.php$ - [F]
-RewriteRule ^ti\.php$ - [F]
-RewriteRule ^layout\.php$ - [F]
-RewriteRule ^stats-construct-list\.php$ - [F]
+RewriteRule ^setup-database$ - [F]
+RewriteRule ^ti$ - [F]
+RewriteRule ^layout$ - [F]
+RewriteRule ^stats-construct-list$ - [F]
 
-# Append .php to the end of the request if a corresponding .php file exists.
-RewriteCond $1.php -F
-RewriteRule ^([^\./]+)$ $1.php
+# Deny web access to *.php in the content directory.
+RewriteCond %{REQUEST_URI} ^/content/[^\.]*\.php$
+RewriteRule ^(.*) - [F]
+
+# Serve the index if requested.
+RewriteRule ^$ content/ [L]
+
+# Serve content/{request}.php if it exists.
+RewriteCond content/$1.php -F
+RewriteRule ^([^\./]+)$ content/$1.php

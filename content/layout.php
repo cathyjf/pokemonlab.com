@@ -32,7 +32,7 @@ require_once 'ti.php'
  -->
 
 <link rel="copyright" href="http://creativecommons.org/licenses/by-sa/3.0/" />
-<link rel="stylesheet" href="/style.css" type="text/css" />
+<link rel="stylesheet" href="/content/style.css" type="text/css" />
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 <?php emptyblock('head-extra') ?>
 <script type="text/javascript">
