@@ -132,7 +132,7 @@ img.shoddybattle-logo {
     margin-bottom: 14px;
     border: 0;
 }
-.main-developer-contact-info {
+.main-developer-contact-info, .heading-subtitle {
     padding-left: 25px;
     font-size: 80%;
     margin-top: -10px;

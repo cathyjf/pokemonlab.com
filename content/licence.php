@@ -31,6 +31,9 @@ require 'layout.php';
 <p>This page provides access to the source code and information on the copyright licences applicable to this project.</p>
 
 <h2>Shoddy Battle and Pok&eacute;mon Lab</h2>
+<div class="heading-subtitle">
+<a href="http://shoddybattle.hg.sf.net/hgweb/shoddybattle/">Browse source code</a>.
+</div>
 
 <p>Shoddy Battle and Pok&eacute;mon Lab are &copy; 2006&ndash;2012 by Cathy Fitzpatrick, Benjamin Gwin, and others. See information on <a href="contributors">authors and contributors</a>.</p>
 
@@ -46,6 +49,9 @@ Shoddy Battle and Pok&eacute;mon Lab are <a href="http://www.gnu.org/philosophy/
 </table>
 
 <h2>pokemonlab.com</h2>
+<div class="heading-subtitle">
+<a href="http://shoddybattle.hg.sf.net/hgweb/shoddybattle/pokemonlab.com/">Browse source code</a>.
+</div>
 
 <p>The <code>pokemonlab.com</code> web site is &copy; 2012&ndash;2013 by Cathy Fitzpatrick.</p>
 
