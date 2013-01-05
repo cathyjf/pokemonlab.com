@@ -26,6 +26,6 @@ require 'layout.php';
 
 <?php startblock('content') ?>
 <h1>File not accessible</h1>
-<p>The file <code><?php echo getenv('REQUEST_URI') ?></code> is not accessible on this web site.</p>
+<p>The file <code><?php echo htmlentities(getenv('REQUEST_URI')) ?></code> is not accessible on this web site.</p>
 <p>In December 2012, this web site was significantly revised, and some previous links may no longer work. We apologise for the inconvenience. Please proceed to the <a href="/">home page</a> and locate the document you are interested in.</p>
 <?php endblock() ?>
