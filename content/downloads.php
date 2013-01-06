@@ -32,13 +32,13 @@ require 'layout.php';
 
 <h2>Pok&eacute;mon Lab</h2>
 
-<p>Pok&eacute;mon Lab (originally known as Shoddy Battle 2) can be downloaded <a href="pokelab-client/pokelab" onclick="return trackLink.call(this, 'Pok\xE9mon Lab Download')">here</a>. The downloaded file should be opened with Java Web Start (<code>javaws</code>).</p>
+<p>Pok&eacute;mon Lab (originally known as Shoddy Battle 2) can be downloaded <a href="clients/pokemonlab" onclick="return trackLink.call(this, 'Pok\xE9mon Lab Download')">here</a>. The downloaded file should be opened with Java Web Start (<code>javaws</code>).</p>
 
 <p>For the source code of Pok&eacute;mon Lab, please see <a href="licence">this page</a>.</p>
 
 <h2>Shoddy Battle</h2>
 
-<p>Shoddy Battle (the original version of the simulator, before the release of Pok&eacute;mon Lab) can be downloaded <a href="client/shoddybattle" onclick="return trackLink.call(this, 'Shoddy Battle Download')">here</a>. The downloaded file should be opened with Java Web Start (<code>javaws</code>).</p>
+<p>Shoddy Battle (the original version of the simulator, before the release of Pok&eacute;mon Lab) can be downloaded <a href="clients/shoddybattle" onclick="return trackLink.call(this, 'Shoddy Battle Download')">here</a>. The downloaded file should be opened with Java Web Start (<code>javaws</code>).</p>
 
 <?php endblock(); ?>
 
