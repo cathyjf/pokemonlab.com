@@ -73,6 +73,7 @@ RewriteRule ^images/pokelablogo-small\.png$ images/pokelab-logo-small.png [R=301
 RewriteRule ^images/pokelablogolarge\.png$ images/pokelab-logo-large.png [R=301,L]
 RewriteRule ^favicon\.gif$ images/favicon.gif [R=301,L]
 RewriteRule ^style\.css$ content/style.css [R=301,L]
+RewriteRule ^downloads/$ downloads [R=301,L]
 
 # New directory structure for the client downloads.
 RewriteRule ^client/(.*) clients/shoddybattle/$1
