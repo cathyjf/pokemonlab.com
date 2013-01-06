@@ -205,7 +205,7 @@ This system also helped players find matches quickly because it reduced the vari
 <li>teammate statistics providing information on which other Pok&eacute;mon were likely to be on the same team as a given Pok&eacute;mon;</li>
 <li>typical movesets (groups of moves appearing together) for each Pok&eacute;mon;</li>
 <li>centralisation and diversity statistics providing information on how varied the gameplay in a particular ruleset was;</li>
-<li>switching statistics providing information on which Pok&eacute;mon were likely to switch into or be switched into particular other Pok&eacute;mon.</li>
+<li><a href="https://github.com/cathyjf/PokemonSwitchStats">switching statistics</a> providing information on which Pok&eacute;mon were likely to switch into or be switched into particular other Pok&eacute;mon.</li>
 </ul>
 
 <p>Various other Pok&eacute;mon statistics were computed from these and reported for further analysis.</p>
