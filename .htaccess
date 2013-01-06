@@ -75,17 +75,17 @@ RewriteRule ^favicon\.gif$ images/favicon.gif [R=301,L]
 RewriteRule ^style\.css$ content/style.css [R=301,L]
 
 # New directory structure for the client downloads.
-RewriteRule ^client/(.*) downloads/shoddybattle/$1
-RewriteRule ^downloads/shoddybattle/shoddybattle\.php$ downloads/shoddybattle/
-RewriteRule ^downloads/shoddybattle/shoddybattle$ downloads/shoddybattle/
-RewriteRule ^metaserver\.txt$ downloads/shoddybattle/metaserver.txt
-RewriteRule ^server/ShoddyBattle\.jar$ downloads/shoddybattle/ShoddyBattle.jar
-RewriteRule ^dpsprites/(.*) downloads/shoddybattle/sprites/$1
-RewriteRule ^pokelab-client/(.*) downloads/pokemonlab/$1
-RewriteRule ^downloads/pokemonlab/pokelab\.jnlp$ downloads/pokemonlab/pokemonlab.jnlp
-RewriteRule ^downloads/pokemonlab/pokelab\.php$ downloads/pokemonlab/
-RewriteRule ^downloads/pokemonlab/pokelab$ downloads/pokemonlab/
-RewriteRule ^sprites/(.*) downloads/pokemonlab/sprites/$1
+RewriteRule ^client/(.*) clients/shoddybattle/$1
+RewriteRule ^clients/shoddybattle/shoddybattle\.php$ clients/shoddybattle/
+RewriteRule ^clients/shoddybattle/shoddybattle$ clients/shoddybattle/
+RewriteRule ^metaserver\.txt$ clients/shoddybattle/metaserver.txt
+RewriteRule ^server/ShoddyBattle\.jar$ clients/shoddybattle/ShoddyBattle.jar
+RewriteRule ^dpsprites/(.*) clients/shoddybattle/sprites/$1
+RewriteRule ^pokelab-client/(.*) clients/pokemonlab/$1
+RewriteRule ^clients/pokemonlab/pokelab\.jnlp$ clients/pokemonlab/pokemonlab.jnlp
+RewriteRule ^clients/pokemonlab/pokelab\.php$ clients/pokemonlab/
+RewriteRule ^clients/pokemonlab/pokelab$ clients/pokemonlab/
+RewriteRule ^sprites/(.*) clients/pokemonlab/sprites/$1
 
 # Deny web access to some files.
 RewriteRule ^content/setup-database\.php$ - [F]
