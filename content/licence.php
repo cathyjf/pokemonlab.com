@@ -33,7 +33,7 @@ require 'layout.php';
 <h2>Shoddy Battle and Pok&eacute;mon Lab</h2>
 <div class="heading-subtitle">
 Browse source on GitHub: <a href="https://github.com/cathyjf/PokemonLab">Pok&eacute;mon engine (server)</a>, <a href="https://github.com/cathyjf/PokemonLabClient">client</a>, <a href="https://github.com/cathyjf/PokemonLabBot">bot framework</a>.<br />
-Browse source on SourceForge: <a href="http://shoddybattle.hg.sf.net/hgweb/shoddybattle/">">hg repositories index</a>.
+Browse source on SourceForge: <a href="http://shoddybattle.hg.sf.net/hgweb/shoddybattle/">hg index</a>.
 </div>
 
 <p>Shoddy Battle and Pok&eacute;mon Lab are &copy; 2006&ndash;2012 by Cathy Fitzpatrick, Benjamin Gwin, and others. See information on <a href="contributors">authors and contributors</a>.</p>
@@ -41,7 +41,10 @@ Browse source on SourceForge: <a href="http://shoddybattle.hg.sf.net/hgweb/shodd
 <table class="borderless">
 <tr>
 <td>
-Shoddy Battle and Pok&eacute;mon Lab are <a href="http://www.gnu.org/philosophy/free-sw.html">free software</a> and open source; all of the source code is licensed under the terms of the <a href="http://www.fsf.org/licensing/licenses/agpl-3.0.html">GNU Affero General Public License</a>, version 3 or later, unless otherwise indicated. The Pok&eacute;mon Lab source code is available in the <a href="http://shoddybattle.hg.sf.net/hgweb/shoddybattle/">Mercurial repositories</a>. See the licence notice at the top of each individual file for details on the licence applicable to that file.
+Shoddy Battle and Pok&eacute;mon Lab are <a href="http://www.gnu.org/philosophy/free-sw.html">free software</a> and open source; all of the source code is licensed under the 
+terms of the <a href="http://www.fsf.org/licensing/licenses/agpl-3.0.html">GNU Affero General Public License</a>, version 3 or later, unless otherwise indicated. The 
+Pok&eacute;mon Lab source code is available in the <a href="http://shoddybattle.hg.sf.net/hgweb/shoddybattle/">hg repositories</a> and is also mirrored on GitHub (see links 
+above). See the licence notice at the top of each individual file for details on the licence applicable to that file.
 </td>
 <td style="padding-left: 10px;">
 <a href="http://www.fsf.org/licensing/licenses/agpl-3.0.html"><img src="https://www.gnu.org/graphics/agplv3-88x31.png" alt="GNU Affero General Public License v3" style="border-width: 0;" /></a>
@@ -63,8 +66,9 @@ Browse source on SourceForge: <a href="http://shoddybattle.hg.sf.net/hgweb/shodd
 <tr>
 <td>
 This web site is free. The source code for this web site is available in the <a href="http://shoddybattle.hg.sf.net/hgweb/shoddybattle/pokemonlab.com/"><code>pokemonlab.com</code>
-Mercurial repository</a>. See the licence notice at the top of each individual file for information on the licence applicable to that file. Most content on this web site is
-dual licensed under (1) the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a> ("CC-BY-SA-3U"), and (2) the <a href="http://www.fsf.org/licensing/licenses/agpl-3.0.html">GNU Affero General Public License</a>, version 3 or later ("AGPLv3+"). You may use, modify, or redistribute files dual licensed in this manner pursuant to either the CC-BY-SA-3U or the AGPLv3+, whichever licence is more convenient for you. If you use content from this web site pursuant to the CC-BY-SA-3U, you must attribute it to <code>pokemonlab.com</code>.
+hg repository</a> and is also mirrored on GitHub (see links above). See the licence notice at the top of each individual file for information on the licence applicable to that 
+file. Most content on this web site is dual licensed under (1) the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported 
+License</a> ("CC-BY-SA-3U"), and (2) the <a href="http://www.fsf.org/licensing/licenses/agpl-3.0.html">GNU Affero General Public License</a>, version 3 or later ("AGPLv3+"). You may use, modify, or redistribute files dual licensed in this manner pursuant to either the CC-BY-SA-3U or the AGPLv3+, whichever licence is more convenient for you. If you use content from this web site pursuant to the CC-BY-SA-3U, you must attribute it to <code>pokemonlab.com</code>.
 </td>
 <td style="padding-left: 10px;">
 <a href="http://creativecommons.org/licenses/by-sa/3.0/"><img 
