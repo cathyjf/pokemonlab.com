@@ -32,8 +32,8 @@ require 'layout.php';
 
 <h2>Shoddy Battle and Pok&eacute;mon Lab</h2>
 <div class="heading-subtitle">
-Browse source on GitHub: <a href="https://github.com/cathyjf/PokemonLab">Pok&eacute;mon engine (server)</a>, <a href="https://github.com/cathyjf/PokemonLabClient">client</a>, <a href="https://github.com/cathyjf/PokemonLabBot">bot framework</a>.<br />
-Browse source on SourceForge: <a href="http://shoddybattle.hg.sf.net/hgweb/shoddybattle/">hg index</a>.
+Browse source on GitHub (mirror): <a href="https://github.com/cathyjf/PokemonLab">Pok&eacute;mon engine (server)</a>, <a href="https://github.com/cathyjf/PokemonLabClient">client</a>, <a href="https://github.com/cathyjf/PokemonLabBot">bot framework</a>.<br />
+Browse source on SourceForge (canonical): <a href="http://shoddybattle.hg.sf.net/hgweb/shoddybattle/">hg index</a>.
 </div>
 
 <p>Shoddy Battle and Pok&eacute;mon Lab are &copy; 2006&ndash;2012 by Cathy Fitzpatrick, Benjamin Gwin, and others. See information on <a href="contributors">authors and contributors</a>.</p>
@@ -54,8 +54,8 @@ above). See the licence notice at the top of each individual file for details on
 
 <h2>pokemonlab.com</h2>
 <div class="heading-subtitle">
-Browse source on GitHub: <a href="https://github.com/cathyjf/pokemonlab.com">git repository</a>.<br />
-Browse source on SourceForge: <a href="http://shoddybattle.hg.sf.net/hgweb/shoddybattle/pokemonlab.com/">hg repository</a>.
+Browse source on GitHub (mirror): <a href="https://github.com/cathyjf/pokemonlab.com">git repository</a>.<br />
+Browse source on SourceForge (canonical): <a href="http://shoddybattle.hg.sf.net/hgweb/shoddybattle/pokemonlab.com/">hg repository</a>.
 </div>
 
 <p>The <code>pokemonlab.com</code> web site is &copy; 2012&ndash;2013 by Cathy Fitzpatrick.</p>
