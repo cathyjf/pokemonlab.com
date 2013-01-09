@@ -4,7 +4,7 @@ This is the repository for [pokemonlab.com](http://pokemonlab.com), the web
 site of Pok&eacute;mon Lab and Shoddy Battle. The present incarnation of the
 web site was created by [Cathy J. Fitzpatrick][cathyjf] in December 2012. The
 web site contains lots of interesting information about the history of Shoddy
-Battle and the advances it introduced to the competitive Pok&ecaute;mon
+Battle and the advances it introduced to the competitive Pok&eacute;mon
 community.
 
 Like Shoddy Battle and Pok&eacute;mon Lab themselves, the
