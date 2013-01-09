@@ -136,7 +136,7 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 
 <div id="footer">
 <p>
-Shoddy Battle and Pok&eacute;mon Lab are &copy; 2006&ndash;2012 by Cathy J. Fitzpatrick, Benjamin Gwin, and others.<br/>
+Shoddy Battle and Pok&eacute;mon Lab are &copy; 2006&ndash;2012 by <a href="https://cathyjf.com">Cathy J. Fitzpatrick</a>, Benjamin Gwin, and others.<br/>
 See <a href="/contributors">contributors</a>, <a href="/licence">source code and licensing</a>, and <a href="/privacy-policy">privacy policy</a>.
 </p>
 </div>

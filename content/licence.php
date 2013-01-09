@@ -36,7 +36,7 @@ Browse source on GitHub (mirror): <a href="https://github.com/cathyjf/PokemonLab
 Browse source on SourceForge (canonical): <a href="http://shoddybattle.hg.sf.net/hgweb/shoddybattle/">hg index</a>.
 </div>
 
-<p>Shoddy Battle and Pok&eacute;mon Lab are &copy; 2006&ndash;2012 by Cathy J. Fitzpatrick, Benjamin Gwin, and others. See information on <a href="contributors">authors and contributors</a>.</p>
+<p>Shoddy Battle and Pok&eacute;mon Lab are &copy; 2006&ndash;2012 by <a href="https://cathyjf.com">Cathy J. Fitzpatrick</a>, Benjamin Gwin, and others. See information on <a href="contributors">authors and contributors</a>.</p>
 
 <table class="borderless">
 <tr>
@@ -58,9 +58,9 @@ Browse source on GitHub (mirror): <a href="https://github.com/cathyjf/pokemonlab
 Browse source on SourceForge (canonical): <a href="http://shoddybattle.hg.sf.net/hgweb/shoddybattle/pokemonlab.com/">hg repository</a>.
 </div>
 
-<p>The <code>pokemonlab.com</code> web site is &copy; 2012&ndash;2013 by Cathy J. Fitzpatrick.</p>
+<p>The <code>pokemonlab.com</code> web site is &copy; 2012&ndash;2013 by <a href="https://cathyjf.com">Cathy J. Fitzpatrick</a>.</p>
 
-<p>In December 2012, <a href="contributors#Cathy">Cathy</a> wrote all the content for the present <code>pokemonlab.com</code> web site and designed an initial draft of the new layout. <a href="http://zarel.github.com/">Zarel</a> helped revise the layout.</p>
+<p>In December 2012, Cathy wrote all the content for the present <code>pokemonlab.com</code> web site and designed an initial draft of the new layout. <a href="http://zarel.github.com/">Zarel</a> helped revise the layout.</p>
 
 <table class="borderless">
 <tr>

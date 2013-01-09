@@ -38,6 +38,7 @@ Shoddy Battle and Pok&eacute;mon Lab were created by <a href="#Cathy">Cathy</a> 
 
 <h2 id="Cathy">Cathy J. Fitzpatrick (Cathy)</h2>
 <div class="main-developer-contact-info">
+Visit Cathy's <a href="https://cathyjf.com">personal web site</a>.<br />
 Email Cathy at <a href="mailto:cathy@pokemonlab.com">cathy@pokemonlab.com</a>. View Cathy's <a href="http://www.smogon.com/forums/member.php?userid=11519">Smogon profile</a>.
 </div>
 
