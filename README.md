@@ -1,5 +1,9 @@
 # pokemonlab.com
 
++ Live web site: http://pokemonlab.com
++ Canonical repository (hg): http://pokemonlab.com/hg/pokemonlab.com
++ Mirror repository (git): https://github.com/cathyjf/pokemonlab.com
+
 This is the repository for [pokemonlab.com](http://pokemonlab.com), the web
 site of Pok&eacute;mon Lab and Shoddy Battle. The present incarnation of the
 web site was created by [Cathy J. Fitzpatrick][cathyjf] in December 2012. The
