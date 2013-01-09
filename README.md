@@ -22,7 +22,7 @@ Here is an overview of the web site tree:
 + The `.htaccess` file contains various rules for rewriting URIs.
 
 + The `content` directory contains the main static content served by the web
-  site.
+  site. The `content/layout.php` file defines the main template for the site.
 
 + The `images` directory contains certain images used on the web site.
 
