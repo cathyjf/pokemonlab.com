@@ -1,7 +1,7 @@
 <?php
 /**
  * This file is part of the pokemonlab.com web site.
- * Copyright (C) 2012-2013  Cathy Fitzpatrick <cathy@pokemonlab.com>
+ * Copyright (C) 2012-2013  Cathy J. Fitzpatrick <cathy@pokemonlab.com>
  *
  * This web site is free. This file is dual licensed under
  *
@@ -36,7 +36,7 @@ Shoddy Battle and Pok&eacute;mon Lab were created by <a href="#Cathy">Cathy</a> 
 
 <p>Cathy and bearzly were the original authors and primary developers of Shoddy Battle and Pok&eacute;mon Lab. If you enjoyed using the software or have questions or comments, please feel free to contact them and let them know. They would appreciate hearing from you.</p>
 
-<h2 id="Cathy">Cathy Fitzpatrick (Cathy)</h2>
+<h2 id="Cathy">Cathy J. Fitzpatrick (Cathy)</h2>
 <div class="main-developer-contact-info">
 Email Cathy at <a href="mailto:cathy@pokemonlab.com">cathy@pokemonlab.com</a>. View Cathy's <a href="http://www.smogon.com/forums/member.php?userid=11519">Smogon profile</a>.
 </div>
