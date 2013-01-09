@@ -27,7 +27,7 @@ require 'layout.php';
 <h1>Welcome</h1>
 
 <p>
-<em>Shoddy Battle</em> (later known as <em>Pok&eacute;mon Lab</em>) is a <a href="licence">free and open source</a> <a href="history">Pok&eacute;mon simulator</a> created by <a href="contributors#Cathy">Cathy&nbsp;J.&nbsp;Fitzpatrick</a> and <a href="contributors#bearzly">Benjamin&nbsp;Gwin</a> and first released in July 2007. It allows users to play Pok&eacute;mon matches against other people online.</p>
+<em>Shoddy Battle</em> (later known as <em>Pok&eacute;mon Lab</em>) is a <a href="licence">free and open source</a> <a href="history">Pok&eacute;mon simulator</a> created by <a href="contributors#Cathy" title="Cathy">Cathy&nbsp;J.&nbsp;Fitzpatrick</a> and <a href="contributors#bearzly" title="bearzly">Benjamin&nbsp;Gwin</a> and first released in July 2007. It allows users to play Pok&eacute;mon matches against other people online.</p>
 
 <p>Shoddy Battle simulates the 4th generation of Pok&eacute;mon games, which began with the release of <a href="https://en.wikipedia.org/wiki/Pok%C3%A9mon_Diamond_and_Pearl">Pok&eacute;mon Diamond and Pearl</a> in September 2006 in Japan and April 2007 in North America. During the 4th generation (roughly 2007&ndash;2010), Shoddy Battle was the main Pok&eacute;mon simulator used by the competitive Pok&eacute;mon community.
 </p>
