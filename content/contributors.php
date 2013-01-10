@@ -49,7 +49,7 @@ Visit Cathy's <a href="https://cathyjf.com" title="cathyjf.com">personal web sit
 
 <h2 id="bearzly">Benjamin Gwin (bearzly)</h2>
 <div class="main-developer-contact-info">
-Email bearzly at <a href="mailto:bearzly@pokemonlab.com">bearzly@pokemonlab.com</a>. View bearzly's <a href="http://www.smogon.com/forums/member.php?userid=32540">Smogon profile</a>.
+View bearzly's <a href="http://www.smogon.com/forums/member.php?userid=32540">Smogon profile</a>. Email bearzly at <a href="mailto:bearzly@pokemonlab.com">bearzly@pokemonlab.com</a>.
 </div>
 
 <p>As one of the original two authors, bearzly contributed significantly to all aspects of Shoddy Battle. He was originally more familiar with Pok&eacute;mon than Cathy was, and he helped her learn many aspects of the game. He implemented many of the individual Pok&eacute;mon moves, abilities, items, and more. He filled in the details of aspects of the framework as necessary. He made many graphical design improvements with a view to enhacing usability. He designed and implemented the graphical user interface for Pok&eacute;mon Lab. He investigated and fixed countless bugs based on user reports.</p>
