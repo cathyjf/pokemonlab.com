@@ -24,6 +24,10 @@ require 'layout.php';
 
 <?php startblock('title-postfix') ?> - Advances<?php endblock() ?>
 
+<?php startblock('head-extra') ?>
+<meta name="description" content="Shoddy Battle ushered in a number of significant advances in the Pok&eacute;mon community. Read about them here." />
+<?php endblock() ?>
+
 <?php startblock('content') ?>
 
 <h1 id="introduction"><a href="#introduction">&sect;</a> Advances to competitive Pok&eacute;mon</h1>

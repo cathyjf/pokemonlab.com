@@ -24,6 +24,10 @@ require 'layout.php';
 
 <?php startblock('title-postfix') ?> - Stats archive<?php endblock() ?>
 
+<?php startblock('head-extra') ?>
+<meta name="description" content="Pok&eacute;mon usage statistics from October 2007 to July 2008." />
+<?php endblock() ?>
+
 <?php startblock('content') ?>
 
 <h1>Stats archive</h1>

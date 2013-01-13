@@ -24,6 +24,10 @@ require 'layout.php';
 
 <?php startblock('title-postfix') ?> - Contributors<?php endblock() ?>
 
+<?php startblock('head-extra') ?>
+<meta name="description" content="Information on the authors of and contributors to Shoddy Battle and Pok&eacute;mon Lab." />
+<?php endblock() ?>
+
 <?php startblock('content') ?>
 
 <h1>Contributors</h1>

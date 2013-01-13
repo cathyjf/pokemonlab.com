@@ -24,6 +24,10 @@ require 'layout.php';
 
 <?php startblock('title-postfix') ?> - History<?php endblock() ?>
 
+<?php startblock('head-extra') ?>
+<meta name="description" content="Learn the history of Shoddy Battle and Pok&eacute;mon Lab." />
+<?php endblock() ?>
+
 <?php startblock('content') ?>
 
 <h1 id="history">History</h1>

@@ -24,6 +24,10 @@ require 'layout.php';
 
 <?php startblock('title-postfix') ?> - Downloads<?php endblock() ?>
 
+<?php startblock('head-extra') ?>
+<meta name="description" content="Download Shoddy Battle and Pok&eacute;mon Lab here." />
+<?php endblock() ?>
+
 <?php startblock('content') ?>
 
 <h1>Downloads</h1>
