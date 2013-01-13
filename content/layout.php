@@ -53,6 +53,7 @@ require_once 'ti.php'
 <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-9585808-1']);
+  _gaq.push(['_setSiteSpeedSampleRate', 100]);
   _gaq.push(['_trackPageview']);
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
