@@ -60,7 +60,7 @@ Browse source on SourceForge (canonical): <a href="http://shoddybattle.hg.sf.net
 
 <p>The <code>pokemonlab.com</code> web site is &copy; 2012&ndash;2013 by <a href="https://cathyjf.com">Cathy J. Fitzpatrick</a>.</p>
 
-<p>In December 2012, Cathy wrote all the content for the present <code>pokemonlab.com</code> web site and designed an initial draft of the new layout. <a href="http://zarel.github.com/">Zarel</a> helped revise the layout.</p>
+<p>In December 2012, Cathy wrote all the content for the present <code>pokemonlab.com</code> web site and designed an initial draft of the new layout. <a href="http://guangcongluo.com/">Zarel</a> helped revise the layout.</p>
 
 <table class="borderless">
 <tr>
