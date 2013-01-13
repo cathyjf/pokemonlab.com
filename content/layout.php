@@ -48,8 +48,8 @@ require_once 'ti.php'
 
 <link rel="copyright" href="/licence" />
 <link rel="stylesheet" href="/content/style.css" type="text/css" />
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 <?php emptyblock('head-extra') ?>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-9585808-1']);
