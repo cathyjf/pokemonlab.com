@@ -22,6 +22,10 @@ $_CURRENT_SECTION = 'home';
 require 'layout.php';
 ?>
 
+<?php startblock('head-extra') ?>
+<meta name="description" content="Pok&eacute;mon Lab (formerly Shoddy Battle) is a free and open source Pok&eacute;mon simulator created by Cathy J. Fitzpatrick and Benjamin Gwin." />
+<?php endblock() ?>
+
 <?php startblock('content') ?>
 
 <h1>Welcome</h1>
