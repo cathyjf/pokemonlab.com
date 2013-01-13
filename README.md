@@ -52,4 +52,4 @@ unmodified version of [phpBB3][], which you can download on your own.
 [licence]: http://pokemonlab.com/licence
 [downloads page]: http://pokemonlab.com/downloads
 [phpBB3]: https://www.phpbb.com/
-[zarel]: http://zarel.github.com
+[zarel]: http://guangcongluo.com/
