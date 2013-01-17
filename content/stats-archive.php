@@ -65,12 +65,13 @@ function loadSection(month, ubers, type, link) {
     if (!toggleSection(link)) {
         return;
     }
-    link.html("<li><img src=\"images/progress.gif\" alt=\"Loading...\" /></li>");
+    var list = link.siblings().first();
+    list.html("<li><img src=\"images/progress.gif\" alt=\"Loading...\" /></li>");
     var url = "stats-load-data?month=" + month + "&type=" + type;
     if (ubers) {
         url += "&ubers";
     }
-    link.siblings().first().load(url);
+    list.load(url);
 }
 function toggleSection(link) {
     var s = (link.text() == "+");
