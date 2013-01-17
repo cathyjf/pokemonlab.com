@@ -46,8 +46,12 @@ if ($type == 'unweighted') {
     die;
 }
 
-$q = mysql_query("SELECT pokemon, value FROM stats WHERE month='$month' 
-AND type='$type' AND ubers=$ubers ORDER BY value DESC");
+$q = mysql_query("SELECT pokemon, value
+                    FROM stats
+                        WHERE month='$month'
+                            AND type='$type'
+                            AND ubers=$ubers
+                    ORDER BY value DESC");
 
 while (list($pokemon, $v) = mysql_fetch_row($q)) {
     echo "<li>$pokemon ($v $desc)</li>";

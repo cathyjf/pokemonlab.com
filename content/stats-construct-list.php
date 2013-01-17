@@ -34,8 +34,8 @@ include_once('setup-database.php');
 $q = mysql_query('SELECT DISTINCT month FROM stats ORDER BY month DESC');
 while (list($month) = mysql_fetch_row($q)) {
     echo "<li>$month (<a 
-        onmousedown=\"toggleSection('stats_$month', this);\" 
-        href=\"javascript:void(0);\">+</a>)<ul id=\"stats_$month\">";
+        onmousedown=\"toggleSection(this); return false;\" 
+        href=\"#\">+</a>)<ul>";
     $ubers = mysql_num_rows(mysql_query("SELECT 
         DISTINCT ubers 
         FROM stats WHERE month='$month'"));
@@ -48,15 +48,16 @@ while (list($month) = mysql_fetch_row($q)) {
     }
     for ($i = 0; $i < $ubers; ++$i) {
         $t = ($i == 0) ? 'Standard' : 'Ubers';
+        $meta = ($i == 0) ? "false" : "true";
         echo "<li>$t (<a
-            onmousedown=\"toggleSection('stats_$month-$t', this);\"
-            href=\"javascript:void(0);\">+</a>)<ul id=\"stats_$month-$t\">";
+            onmousedown=\"toggleSection(this); return false;\"
+            href=\"#\">+</a>)<ul>";
         foreach ($types as $j) {
-            $x = 'stats_' . $month . '_' . $t . '_' . strtolower($j);
+            $weight = strtolower($j);
             echo "<li>$j (<a
-                onmousedown=\"loadSection('$x', this);\"
-                href=\"javascript:void(0);\">+</a>)<ol id=\"$x\">";
-            echo '<li></li>'; // XHTML does not allow empty lists
+                onmousedown=\"loadSection($month, $meta, $weight, this); return false;\"
+                href=\"#\">+</a>)<ol>";
+            echo '<li></li>'; // HTML does not allow empty lists
             echo '</ol></li>';
         }
         echo '</ul></li>';

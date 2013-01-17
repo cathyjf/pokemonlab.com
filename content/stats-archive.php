@@ -26,6 +26,11 @@ require 'layout.php';
 
 <?php startblock('head-extra') ?>
 <meta name="description" content="Pok&eacute;mon usage statistics from October 2007 to July 2008." />
+<style type="text/css">
+#stats, #stats li ul, #stats li ol {
+    display: none;
+}
+</style>
 <?php endblock() ?>
 
 <?php startblock('content') ?>
@@ -56,69 +61,26 @@ require 'layout.php';
 
 <script type="text/javascript">
 //<![CDATA[
-/**
- * Note to the reader: this script was written in October 2007.
- */
-var g_req = (window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject("Microsoft.XMLHTTP"));
-var g_section;
-function loadSection(section, pLink) {
-    toggleSection(section, pLink);
-    if (g_req && (pLink.innerHTML == "-")) {
-        document.getElementById(section).innerHTML = "<li><img src=\"images/progress.gif\" alt=\"Loading...\" /></li>";
-        g_section = section;
-        g_req.onreadystatechange = function() {
-            if ((g_req.readyState == 4) && (g_req.status == 200)) {
-                document.getElementById(g_section).innerHTML = g_req.responseText;
-            }
-        };
-        var parts = section.split("_");
-        var url = "stats-load-data?month=" + parts[1] + "&type=" + parts[3];
-        if (parts[2] == "Ubers") {
-            url += "&ubers";
-        }
-        g_req.open("GET", url, true);
-        g_req.send(null);
+function loadSection(month, ubers, type, link) {
+    if (!toggleSection(link)) {
+        return;
     }
-}
-function toggleSection(section, pLink)
-{
-    pLink.innerHTML = ((pLink.innerHTML == "+") ? "-" : "+");
-    var pSection = document.getElementById(section);
-    pSection.style.display = ((pSection.style.display == "none") ? "block" : "none");
-}
-function toggleAll(bOpen)
-{
-    if (!document.getElementsByTagName) return;
-    for (var j = 0; j < 2; ++j) {
-        s = (j == 0) ? "ol" : "ul";
-        var lists = document.getElementsByTagName(s);
-        var listInnerHtml = (bOpen ? "block" : "none");
-        for (var i = 0; i < lists.length; i++)
-        {
-            var list = lists[i];
-            if (list.id == 'navigation-list') continue;
-            if (list.id != 'stats') list.style.display = listInnerHtml;
-        }
-        var anchors = document.getElementsByTagName("a");
-        var anchorInnerHtml = (bOpen ? "-" : "+");
-        for (var i = 0; i < anchors.length; i++)
-        {
-            var anchor = anchors[i];
-            if (anchor.onmousedown) anchor.innerHTML = anchorInnerHtml;
-        }
+    link.html("<li><img src=\"images/progress.gif\" alt=\"Loading...\" /></li>");
+    var url = "stats-load-data?month=" + month + "&type=" + type;
+    if (ubers) {
+        url += "&ubers";
     }
+    link.load(url);
 }
-function hideSections()
-{
-    toggleAll(false);
-    var str = new String(document.location);
-    var i = str.indexOf("#");
-    if (i != -1) document.location = str.substring(i, str.length);
+function toggleSection(link) {
+    var s = (link.text() == "+");
+    link.text(s ? "-" : "+");
+    link.siblings().first().toggle();
+    return s;
 }
-hideSections();
+$('#stats').show();
 //]]>
 </script>
 
 <?php endblock() ?>
-
 
