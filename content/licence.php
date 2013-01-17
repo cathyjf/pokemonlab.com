@@ -24,6 +24,10 @@ require 'layout.php';
 
 <?php startblock('title-postfix') ?> - Source code and licensing information<?php endblock() ?>
 
+<?php startblock('head-extra') ?>
+<meta name="description" content="Access the source code of Pok&eacute;mon Lab." />
+<?php endblock() ?>
+
 <?php startblock('content') ?>
 
 <h1>Source code and licensing information</h1>
@@ -43,8 +47,8 @@ Browse source on SourceForge (canonical): <a href="http://shoddybattle.hg.sf.net
 <td>
 Shoddy Battle and Pok&eacute;mon Lab are <a href="http://www.gnu.org/philosophy/free-sw.html">free software</a> and open source; all of the source code is licensed under the 
 terms of the <a href="http://www.fsf.org/licensing/licenses/agpl-3.0.html">GNU Affero General Public License</a>, version 3 or later, unless otherwise indicated. The 
-Pok&eacute;mon Lab source code is available in the <a href="http://shoddybattle.hg.sf.net/hgweb/shoddybattle/">hg repositories</a> and is also mirrored on GitHub (see links 
-above). See the licence notice at the top of each individual file for details on the licence applicable to that file.
+Pok&eacute;mon Lab source code is available in the <a href="http://shoddybattle.hg.sf.net/hgweb/shoddybattle/">hg repositories</a> and is also mirrored on GitHub, which has
+a nicer source browser (see links above). See the licence notice at the top of each individual file for details on the licence applicable to that file.
 </td>
 <td style="padding-left: 10px;">
 <a href="http://www.fsf.org/licensing/licenses/agpl-3.0.html"><img src="https://www.gnu.org/graphics/agplv3-88x31.png" alt="GNU Affero General Public License v3" style="border-width: 0;" /></a>
