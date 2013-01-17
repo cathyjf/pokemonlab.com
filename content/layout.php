@@ -64,7 +64,9 @@ require_once 'ti.php'
     try {
       var href = $(this).attr('href');
       _gaq.push([ '_trackEvent', category, href ]);
-      setTimeout('document.location = "' + href + '"', 100);
+      setTimeout(function() {
+            document.location = href;
+        }, 125);
       return false;
     } catch (err) { }
   }
