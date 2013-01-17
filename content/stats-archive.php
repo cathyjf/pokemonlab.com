@@ -60,7 +60,6 @@ require 'layout.php';
 <p>You can go back to reading about the <a href="about#type-of-statistics">type of statistics collected by Shoddy Battle</a>.</p>
 
 <script type="text/javascript">
-//<![CDATA[
 function loadSection(month, ubers, type, link) {
     if (!toggleSection(link)) {
         return;
@@ -80,7 +79,6 @@ function toggleSection(link) {
     return s;
 }
 $('#stats').show();
-//]]>
 </script>
 
 <?php endblock() ?>
