@@ -71,6 +71,7 @@ function loadSection(month, ubers, type, link) {
         url += "&ubers";
     }
     list.load(url);
+    _gaq.push([ '_trackEvent', 'Stats Load Data', url ]);
 }
 function toggleSection(link) {
     var s = (link.text() == "+");
