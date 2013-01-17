@@ -14,7 +14,7 @@
  * You may use, modify, or redistribute this file pursuant to either one of the
  * above licences, whichever is more convenient for you.
  *
- * See <http://pokemonlab.com/licence> for more details, including information
+ * See <http://pokemonlab.com/sources> for more details, including information
  * on how to attribute content to this web site.
  */
 

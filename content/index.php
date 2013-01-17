@@ -14,7 +14,7 @@
  * You may use, modify, or redistribute this file pursuant to either one of the
  * above licences, whichever is more convenient for you.
  *
- * See <http://pokemonlab.com/licence> for more details, including information
+ * See <http://pokemonlab.com/sources> for more details, including information
  * on how to attribute content to this web site.
  */
 
@@ -31,7 +31,7 @@ require 'layout.php';
 <h1>Welcome</h1>
 
 <p>
-<em>Shoddy Battle</em> (later known as <em>Pok&eacute;mon Lab</em>) is a <a href="licence">free and open source</a> <a href="history">Pok&eacute;mon simulator</a> created by <a href="contributors#Cathy" title="Cathy">Cathy&nbsp;J.&nbsp;Fitzpatrick</a> and <a href="contributors#bearzly" title="bearzly">Benjamin&nbsp;Gwin</a> and first released in July 2007. It allows users to play Pok&eacute;mon matches against other people online.</p>
+<em>Shoddy Battle</em> (later known as <em>Pok&eacute;mon Lab</em>) is a <a href="sources">free and open source</a> <a href="history">Pok&eacute;mon simulator</a> created by <a href="contributors#Cathy" title="Cathy">Cathy&nbsp;J.&nbsp;Fitzpatrick</a> and <a href="contributors#bearzly" title="bearzly">Benjamin&nbsp;Gwin</a> and first released in July 2007. It allows users to play Pok&eacute;mon matches against other people online.</p>
 
 <p>Shoddy Battle simulates the 4th generation of Pok&eacute;mon games, which began with the release of <a href="https://en.wikipedia.org/wiki/Pok%C3%A9mon_Diamond_and_Pearl">Pok&eacute;mon Diamond and Pearl</a> in September 2006 in Japan and April 2007 in North America. During the 4th generation (roughly 2007&ndash;2010), Shoddy Battle was the main Pok&eacute;mon simulator used by the competitive Pok&eacute;mon community.
 </p>
@@ -47,7 +47,7 @@ require 'layout.php';
 <li><a href="about#free-software">Free, open source, and cross-platform software</a>
 <div class="detailed-list-info">
 
-<p>Before Shoddy Battle, previous simulators had been closed source and controlled by particular individuals. By contrast, Shoddy Battle was truly a community project &mdash; its open design led to improved security, greater sense of community ownership, enhanced understanding of Pok&eacute;mon mechanics (because interested users could and did read the <a href="licence">source code</a>), and made possible <a href="contributors">contributions</a> by anyone who wanted to help. The Shoddy Battle codebase was also re-used by several other Pok&eacute;mon projects.</p>
+<p>Before Shoddy Battle, previous simulators had been closed source and controlled by particular individuals. By contrast, Shoddy Battle was truly a community project &mdash; its open design led to improved security, greater sense of community ownership, enhanced understanding of Pok&eacute;mon mechanics (because interested users could and did read the <a href="sources">source code</a>), and made possible <a href="contributors">contributions</a> by anyone who wanted to help. The Shoddy Battle codebase was also re-used by several other Pok&eacute;mon projects.</p>
 
 <p>Shoddy Battle's open source nature and the benefits that flowed from it effected a significant shift in the Pok&eacute;mon community and all subsequent simulators have continued to be free and open source.</p>
 

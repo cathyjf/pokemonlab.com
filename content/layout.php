@@ -14,7 +14,7 @@
  * You may use, modify, or redistribute this file pursuant to either one of the
  * above licences, whichever is more convenient for you.
  *
- * See <http://pokemonlab.com/licence> for more details, including information
+ * See <http://pokemonlab.com/sources> for more details, including information
  * on how to attribute content to this web site.
  */
 
@@ -42,11 +42,11 @@ require_once 'ti.php'
    content contained therein) pursuant to either one of the above licences,
    whichever is more convenient for you.
 
-   See <http://pokemonlab.com/licence> for more details, including information
+   See <http://pokemonlab.com/sources> for more details, including information
    on how to attribute content to this web site.
  -->
 
-<link rel="copyright" href="/licence" />
+<link rel="copyright" href="/sources" />
 <link rel="stylesheet" href="/content/style.css" type="text/css" />
 <?php emptyblock('head-extra') ?>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
@@ -140,7 +140,7 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 <div id="footer">
 <p>
 Shoddy Battle and Pok&eacute;mon Lab are &copy; 2006&ndash;2012 by <a href="https://cathyjf.com">Cathy J. Fitzpatrick</a>, Benjamin Gwin, and others.<br/>
-See <a href="/contributors">contributors</a>, <a href="/licence">source code and licensing</a>, and <a href="/privacy-policy">privacy policy</a>.
+See <a href="/contributors">contributors</a>, <a href="/sources">source code and licensing</a>, and <a href="/privacy-policy">privacy policy</a>.
 </p>
 </div>
 

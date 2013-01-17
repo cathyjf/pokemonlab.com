@@ -14,7 +14,7 @@
  * You may use, modify, or redistribute this file pursuant to either one of the
  * above licences, whichever is more convenient for you.
  *
- * See <http://pokemonlab.com/licence> for more details, including information
+ * See <http://pokemonlab.com/sources> for more details, including information
  * on how to attribute content to this web site.
  */
 
@@ -38,7 +38,7 @@ require 'layout.php';
 
 <p>Pok&eacute;mon Lab (originally known as Shoddy Battle 2) can be downloaded <a href="clients/pokemonlab" onclick="return trackLink.call(this, 'Pok\xE9mon Lab Download')">here</a>. The downloaded file should be opened with Java Web Start (<code>javaws</code>).</p>
 
-<p>For the source code of Pok&eacute;mon Lab, please see <a href="licence">this page</a>.</p>
+<p>For the source code of Pok&eacute;mon Lab, please see <a href="sources">this page</a>.</p>
 
 <h2>Shoddy Battle</h2>
 

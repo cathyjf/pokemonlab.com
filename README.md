@@ -49,7 +49,7 @@ unmodified version of [phpBB3][], which you can download on your own.
 [cathyjf]: https://cathyjf.com
 [free]: https://www.fsf.org/
 [open source]: http://opensource.org/
-[licence]: http://pokemonlab.com/licence
+[licence]: http://pokemonlab.com/sources
 [downloads page]: http://pokemonlab.com/downloads
 [phpBB3]: https://www.phpbb.com/
 [zarel]: http://guangcongluo.com/

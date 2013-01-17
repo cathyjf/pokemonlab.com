@@ -14,7 +14,7 @@
  * You may use, modify, or redistribute this file pursuant to either one of the
  * above licences, whichever is more convenient for you.
  *
- * See <http://pokemonlab.com/licence> for more details, including information
+ * See <http://pokemonlab.com/sources> for more details, including information
  * on how to attribute content to this web site.
  */
 
@@ -51,7 +51,7 @@ Table of contents:
 
 <h1 id="free-software"><a href="#introduction">&sect;</a> Free, open source, and cross-platform software</h1>
 
-<p>Shoddy Battle was and is free and open source software, which means that the <a href="licence">source code</a> was and is available for users to review, learn from, modify, and redistribute pursuant to the applicable free software licence.</p>
+<p>Shoddy Battle was and is free and open source software, which means that the <a href="sources">source code</a> was and is available for users to review, learn from, modify, and redistribute pursuant to the applicable free software licence.</p>
 
 <p>In July 2007, a free and open source Pok&eacute;mon simulator was a fairly revolutionary idea. NetBattle, which was the main simulator used for many years before Shoddy Battle, was closed source and this led to a number of problems, including the following:</p>
 <ul class="detailed-list">
