@@ -57,7 +57,11 @@ require 'layout.php';
 <?php require_once('stats-construct-list.php') ?>
 </ul>
 
-<p>You can go back to reading about the <a href="about#type-of-statistics">type of statistics collected by Shoddy Battle</a>.</p>
+<noscript>
+Unfortunately, you must enable JavaScript to view the stats.
+</noscript>
+
+<p>You can read more about the <a href="about#type-of-statistics">statistics collected by Shoddy Battle</a>.</p>
 
 <script type="text/javascript">
 function loadSection(month, ubers, type, link) {
