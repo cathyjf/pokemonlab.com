@@ -55,7 +55,7 @@ while (list($month) = mysql_fetch_row($q)) {
         foreach ($types as $j) {
             $weight = strtolower($j);
             echo "<li>$j (<a
-                onmousedown=\"loadSection($month, $meta, $weight, $(this)); return false;\"
+                onmousedown=\"loadSection('$month', $meta, '$weight', $(this)); return false;\"
                 href=\"#\">+</a>)<ol>";
             echo '<li></li>'; // HTML does not allow empty lists
             echo '</ol></li>';
