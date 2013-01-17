@@ -70,7 +70,7 @@ function loadSection(month, ubers, type, link) {
     if (ubers) {
         url += "&ubers";
     }
-    link.load(url);
+    link.siblings().first().load(url);
 }
 function toggleSection(link) {
     var s = (link.text() == "+");
