@@ -74,7 +74,7 @@ Table of contents:
 <li>Other Pok&eacute;mon projects were able to use the Shoddy Battle codebase to provide Pok&eacute;mon battle mechanics. For example, several Pok&eacute;mon-themed <abbr title="Massive Multiplayer Online Role-Playing Game">MMORPG</abbr>s used the Shoddy Battle codebase. Open source code also made it easier for other projects to interoperate with Shoddy Battle.</li>
 </ul>
 
-<p>The open source nature of Shoddy Battle was so beneficial for the Pok&eacute;mon community that all subsequent Pok&eacute;mon simulators have been free and open source. In fact, within weeks of Shoddy Battle's release in July 2007, the developers of upcoming rival simulators, such as <a href="http://www.smogon.com/forums/showthread.php?t=64930">Smogon Competitor</a>, announced that their formerly closed source simulators would instead be open source. As of December 2012, the current most popular simulator, <a href="http://pokemonshowdown.com/">Pok&eacute;mon Showdown!</a>, is also free and open source.</p>
+<p>The open source nature of Shoddy Battle was so beneficial for the Pok&eacute;mon community that all subsequent Pok&eacute;mon simulators have been free and open source. In fact, within weeks of Shoddy Battle's release in July 2007, the developers of upcoming rival simulators, such as <a href="http://www.smogon.com/forums/showthread.php?t=64930">Smogon Competitor</a>, announced that their formerly closed source simulators would instead be open source. As of December 2012, the current most popular simulator, <a href="http://pokemonshowdown.com/">Pokemon Showdown</a>, is also free and open source.</p>
 
 
 <h1 id="scalability"><a href="#introduction">&sect;</a> Scalability</h1>
@@ -140,7 +140,7 @@ In contrast to previous simulators, the network protocols for Shoddy Battle and 
 
 <h2 id="extensibility-outlook">Outlook</h2>
 
-<p>Shoddy Battle set the bar high for extensibility and customisation features. Later simulators have provided similar facilities in order to satisfy user need; for example, <a href="http://pokemonshowdown.com/">Pok&eacute;mon Showdown!</a> also supports modified Pok&eacute;mon games.</p>
+<p>Shoddy Battle set the bar high for extensibility and customisation features. Later simulators have provided similar facilities in order to satisfy user need; for example, <a href="http://pokemonshowdown.com/">Pokemon Showdown</a> also supports modified Pok&eacute;mon games.</p>
 
 <h1 id="statistical-data"><a href="#introduction">&sect;</a> Statistical data and user ranking</h1>
 
@@ -281,7 +281,7 @@ Shoddy Battle significantly changed the landscape of the competitive Pok&eacute;
 <h1 id="status"><a href="#introduction">&sect;</a> Status</h1>
 
 <p>
-With the conclusion of the 4th generation, Shoddy Battle has been superseded by other simulators such as <a href="http://pokemonshowdown.com/">Pok&eacute;mon Showdown!</a>. Shoddy Battle remains notable for the changes it effected in the Pok&eacute;mon community. Later Pok&eacute;mon simulators have followed the path set by Shoddy Battle and continue to expand on the above advances. On another page, you can also read about the <a href="history">history of Shoddy Battle</a>.
+With the conclusion of the 4th generation, Shoddy Battle has been superseded by other simulators such as <a href="http://pokemonshowdown.com/">Pokemon Showdown</a>. Shoddy Battle remains notable for the changes it effected in the Pok&eacute;mon community. Later Pok&eacute;mon simulators have followed the path set by Shoddy Battle and continue to expand on the above advances. On another page, you can also read about the <a href="history">history of Shoddy Battle</a>.
 </p>
 
 <p>If you enjoyed using Shoddy Battle or have questions or comments, please feel free to email <a href="contributors#Cathy">Cathy</a>&nbsp;(<a href="mailto:cathy@pokemonlab.com">cathy@pokemonlab.com</a>) and <a href="contributors#bearzly">bearzly</a>&nbsp;(<a href="mailto:bearzly@pokemonlab.com">bearzly@pokemonlab.com</a>) and let them know. They would appreciate hearing from you.</p>
