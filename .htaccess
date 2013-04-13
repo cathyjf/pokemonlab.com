@@ -51,6 +51,12 @@ RewriteCond %{REQUEST_URI}  ^/forum/    [OR]
 RewriteCond %{REQUEST_URI}  ^/forum$
 RewriteRule ^[^/]*/?(.*)    forum-archive/$1 [R=301,L]
 
+# Redirect direct links to the download page.
+RewriteCond %{HTTP_REFERER} !^http://pokemonlab\.com
+RewriteCond %{HTTP_REFERER} !^$
+RewriteRule ^downloads$ / [R=303,L,env=VARY_REFERER]
+Header append Vary Referer env=VARY_REFERER
+
 # Canonicalise the forum index URI to avoid two entries in Analytics.
 RewriteRule ^forum-archive/index\.php$ forum-archive/ [R=301,L]
 
