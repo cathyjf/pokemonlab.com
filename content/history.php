@@ -100,7 +100,7 @@ In September 2010, <a href="contributors#Cathy">Cathy</a> and <a href="contribut
 </p>
 
 <p>
-With the conclusion of the 4th generation, Shoddy Battle has been superseded by other simulators such as <a href="http://pokemonshowdown.com/">Pokemon Showdown</a>. Shoddy Battle remains notable for the changes it effected in the Pokémon community.
+With the conclusion of the 4th generation, Shoddy Battle has been superseded by other simulators such as <a href="http://pokemonshowdown.com/">Pok&eacute;mon Showdown</a>. Shoddy Battle remains notable for the changes it effected in the Pokémon community.
 </p>
 
 <h3 id="2012">2012</h3>
