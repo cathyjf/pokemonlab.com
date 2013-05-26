@@ -30,7 +30,7 @@ require 'layout.php';
 
 <p><a href="contributors#Cathy">Cathy</a> and <a href="contributors#bearzly">bearzly</a> developed and maintained Shoddy Battle from 2006&ndash;2010 for free. They released the software as open source for the benefit of the community.</p>
 
-<p>The Shoddy Battle project did not solicit donations. However, a few people graciously made unsolicited donations over the years. We thank the folowing people for financially supporting our efforts:</p>
+<p>The Shoddy Battle project did not solicit donations. However, a few people graciously made unsolicited donations over the years. We thank the following people for financially supporting our efforts:</p>
 
 <table>
 <tr>
