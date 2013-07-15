@@ -25,17 +25,17 @@ ErrorDocument 403 /content/error403.php
 ErrorDocument 404 /content/error404.php
 
 # For trac.poke-lab.com, just redirect to the index except for the hg browser.
-RewriteCond %{HTTP_HOST}    ^trac.poke-lab.com
+RewriteCond %{HTTP_HOST}    =trac.poke-lab.com
 RewriteCond %{REQUEST_URI}  !^/browser/
 RewriteCond %{REQUEST_URI}  !^/browser$
 RewriteRule ^(.*)           http://pokemonlab.com/    [R=301,L]
 
 # Redirect forum.poke-lab.com to the forum archive.
-RewriteCond %{HTTP_HOST}    ^forum.poke-lab.com
+RewriteCond %{HTTP_HOST}    =forum.poke-lab.com
 RewriteRule ^(.*)           http://pokemonlab.com/forum-archive/$1  [R=301,L]
 
 # Set host to pokemonlab.com.
-RewriteCond %{HTTP_HOST}    !^pokemonlab.com
+RewriteCond %{HTTP_HOST}    !=pokemonlab.com
 RewriteCond %{HTTP_HOST}    !^$
 RewriteCond %{REQUEST_URI}  !/metaserver\.txt$
 RewriteRule ^(.*)           http://pokemonlab.com/$1  [R=301,L]
