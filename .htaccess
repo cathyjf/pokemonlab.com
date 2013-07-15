@@ -37,6 +37,7 @@ RewriteRule ^(.*)           http://pokemonlab.com/forum-archive/$1  [R=301,L]
 # Set host to pokemonlab.com.
 RewriteCond %{HTTP_HOST}    !^pokemonlab.com
 RewriteCond %{HTTP_HOST}    !^$
+RewriteCond %{REQUEST_URI}  !/metaserver\.txt$
 RewriteRule ^(.*)           http://pokemonlab.com/$1  [R=301,L]
 
 # Redirects for the Mercurial repository.
