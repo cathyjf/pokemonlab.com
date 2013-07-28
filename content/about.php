@@ -136,7 +136,7 @@ In contrast to previous simulators, the network protocols for Shoddy Battle and 
 <li>play battles with users.</li>
 </ul>
 
-<p>One impressive bot is <a href="http://doublewise.net/pokemon/">Technical Machine</a>, an <abbr title="Artificial Intelligence">AI</abbr> project by <a href="http://www.smogon.com/forums/member.php?userid=1098">david stone</a> that plays intelligent Pok&eacute;mon matches on Pok&eacute;mon Lab (and some other simulators) using a minimax-based algorithm.</p>
+<p>One impressive bot is <a href="http://doublewise.net/pokemon/">Technical Machine</a>, an <abbr title="Artificial Intelligence">AI</abbr> project by <a href="http://www.smogon.com/forums/member.php?u=1098">david stone</a> that plays intelligent Pok&eacute;mon matches on Pok&eacute;mon Lab (and some other simulators) using a minimax-based algorithm.</p>
 
 <h2 id="extensibility-outlook">Outlook</h2>
 

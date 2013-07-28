@@ -40,7 +40,7 @@ require 'layout.php';
 </tr>
 
 <tr>
-<td>Adam Nelson (<a href="http://www.smogon.com/forums/member.php?userid=15210">Earthworm</a>)</td>
+<td>Adam Nelson (<a href="http://www.smogon.com/forums/member.php?u=15210">Earthworm</a>)</td>
 <td>US$5</td>
 <td>November 2, 2007</td>
 </tr>
@@ -58,13 +58,13 @@ require 'layout.php';
 </tr>
 
 <tr>
-<td>Rory Neithinger (<a href="http://www.smogon.com/forums/member.php?userid=14771">rory</a>)</td>
+<td>Rory Neithinger (<a href="http://www.smogon.com/forums/member.php?u=14771">rory</a>)</td>
 <td>US$20</td>
 <td>September 16, 2009</td>
 </tr>
 
 <tr>
-<td>William Young (<a href="http://www.smogon.com/forums/member.php?userid=21459">mingot</a>)</td>
+<td>William Young (<a href="http://www.smogon.com/forums/member.php?u=21459">mingot</a>)</td>
 <td>US$50</td>
 <td>December 17, 2009</td>
 </tr>
