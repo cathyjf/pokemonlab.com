@@ -34,6 +34,19 @@ require 'layout.php';
 
 <p>As of December 2012, Shoddy Battle and Pok&eacute;mon Lab are primarily of historical interest. You can read more about their <a href="about">advances to competitive Pok&eacute;mon</a> as well as the <a href="history">history of Shoddy Battle</a> and the program's <a href="contributors">authors and contributors</a>. In the event you would like to try the programs, they are still available to play.</p>
 
+<div class="ad-space">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-9146387889076075";
+google_ad_slot = "8781150817";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+
 <h2>Pok&eacute;mon Lab</h2>
 
 <p>Pok&eacute;mon Lab (originally known as Shoddy Battle 2) can be downloaded <a href="clients/pokemonlab" onclick="return trackLink.call(this, 'Pok\xE9mon Lab Download')">here</a>. The downloaded file should be opened with Java Web Start (<code>javaws</code>).</p>

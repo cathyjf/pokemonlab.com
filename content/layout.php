@@ -121,7 +121,7 @@ foreach ($nav as $i => &$j) {
 
 <div id="content">
 
-<div id="ad-space">
+<div class="ad-space">
 <script type="text/javascript"><!--
 google_ad_client = "ca-pub-9146387889076075";
 google_ad_slot = "8781150817";

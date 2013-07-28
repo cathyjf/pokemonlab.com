@@ -43,7 +43,7 @@ div#top-bar {
 div#top-bar a {
     text-decoration: none;
 }
-div#ad-space {
+div#ad-space, div.ad-space {
     text-align: center;
     margin: 25px auto;
 }
