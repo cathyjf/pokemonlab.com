@@ -51,6 +51,8 @@ Visit Cathy's <a href="https://cathyjf.com" title="cathyjf.com">personal web sit
 
 <p>Cathy created the present <code>pokemonlab.com</code> web site in December 2012 in order to memorialise the Shoddy Battle project and provide information on its significance to competitive Pok&eacute;mon.</p>
 
+<p>In January 2013, Cathy became a lead developer of <a href="http://pokemonshowdown.com">Pok&eacute;mon Showdown</a>.</p>
+
 <h2 id="bearzly">Benjamin Gwin (bearzly)</h2>
 <div class="main-developer-contact-info">
 View bearzly's <a href="http://www.smogon.com/forums/member.php?u=32540">Smogon profile</a>. Email bearzly at <a href="mailto:bearzly@pokemonlab.com">bearzly@pokemonlab.com</a>.
