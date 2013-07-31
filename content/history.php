@@ -70,7 +70,6 @@ Pok&eacute;mon simulators are computer programs that allow people to play compet
 
 <p>
 Shoddy Battle's <a href="about#statistical-data">statatistical data collection and user ranking functionality</a> went live in October 2007 and helped usher in a new era of competitive Pok&eacute;mon based heavily on statistical data. You can read more about Shoddy Battle's statistical functions <a href="about#statistical-data">here</a>.</p>
-</p>
 
 <h3 id="2008">2008</h3>
 
