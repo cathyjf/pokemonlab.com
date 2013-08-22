@@ -48,6 +48,7 @@ require_once 'ti.php'
 
 <link rel="copyright" href="/sources" />
 <link rel="stylesheet" href="/content/style.css" type="text/css" />
+<meta name="author" content="Cathy J. Fitzpatrick <cathy@cathyjf.com>" />
 <?php emptyblock('head-extra') ?>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 <script type="text/javascript">
@@ -139,7 +140,7 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 
 <div id="footer">
 <p>
-Shoddy Battle and Pok&eacute;mon Lab are &copy; 2006&ndash;2012 by <a href="https://cathyjf.com">Cathy J. Fitzpatrick</a>, Benjamin Gwin, and others.<br/>
+Shoddy Battle and Pok&eacute;mon Lab are &copy; 2006&ndash;2012 by <a rel="author" href="https://cathyjf.com">Cathy J. Fitzpatrick</a>, Benjamin Gwin, and others.<br/>
 See <a href="/contributors">contributors</a>, <a href="/sources">source code and licensing</a>, and <a href="/privacy-policy">privacy policy</a>.
 </p>
 </div>
