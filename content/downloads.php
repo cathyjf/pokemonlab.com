@@ -40,15 +40,11 @@ if (document.referrer && (document.referrer.substr(0, 21) !== 'http://pokemonlab
 <p>As of December 2012, Shoddy Battle and Pok&eacute;mon Lab are primarily of historical interest. You can read more about their <a href="about">advances to competitive Pok&eacute;mon</a> as well as the <a href="history">history of Shoddy Battle</a> and the program's <a href="contributors">authors and contributors</a>. In the event you would like to try the programs, they are still available to play.</p>
 
 <div class="ad-space">
-<script type="text/javascript"><!--
-google_ad_client = "ca-pub-9146387889076075";
-google_ad_slot = "8781150817";
-google_ad_width = 728;
-google_ad_height = 90;
-//-->
-</script>
-<script type="text/javascript"
-src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+<ins class="adsbygoogle"
+  data-ad-client="ca-pub-9146387889076075"
+  data-ad-slot="8781150817"></ins>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 </div>
 

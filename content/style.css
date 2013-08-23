@@ -47,6 +47,11 @@ div#ad-space, div.ad-space {
     text-align: center;
     margin: 25px auto;
 }
+ins.adsbygoogle {
+    display: inline-block;
+    width: 728px;
+    height: 90px;
+}
 div#logos {
     float: left;
     text-align: center;
