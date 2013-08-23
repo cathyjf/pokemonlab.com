@@ -50,8 +50,7 @@ require_once 'ti.php'
 <link rel="stylesheet" href="/content/style.css" type="text/css" />
 <meta name="author" content="Cathy J. Fitzpatrick <cathy@cathyjf.com>" />
 <?php emptyblock('head-extra') ?>
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-<script type="text/javascript">
+<script>
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-9585808-1']);
   _gaq.push(['_setSiteSpeedSampleRate', 100]);
@@ -61,24 +60,6 @@ require_once 'ti.php'
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-  function trackLink(category) {
-    try {
-      var href = $(this).attr('href');
-      _gaq.push([ '_trackEvent', category, href ]);
-      setTimeout(function() {
-            document.location = href;
-        }, 125);
-      return false;
-    } catch (err) { }
-  }
-  $(function() {
-    $('a[href^="http://"],a[href^="https://"]').click(function() {
-        return trackLink.call(this, 'Outbound Links');
-    });
-    $('a[href^="mailto:"]').click(function() {
-        return trackLink.call(this, 'Mailto Links');
-    });
-  });
 </script>
 <script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 </head>
@@ -143,5 +124,29 @@ See <a href="/contributors">contributors</a>, <a href="/sources">source code and
 </div>
 
 </div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script>
+  function trackLink(category) {
+    try {
+      var href = $(this).attr('href');
+      _gaq.push([ '_trackEvent', category, href ]);
+      setTimeout(function() {
+            document.location = href;
+        }, 125);
+      return false;
+    } catch (err) { }
+  }
+  $(function() {
+    $('a[href^="http://"],a[href^="https://"]').click(function() {
+        return trackLink.call(this, 'Outbound Links');
+    });
+    $('a[href^="mailto:"]').click(function() {
+        return trackLink.call(this, 'Mailto Links');
+    });
+  });
+</script>
+<?php emptyblock('jquery-extra') ?>
+
 </body>
 </html>

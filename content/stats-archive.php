@@ -63,7 +63,10 @@ Unfortunately, you must enable JavaScript to view the stats.
 
 <p>You can read more about the <a href="about#type-of-statistics">statistics collected by Shoddy Battle</a>.</p>
 
-<script type="text/javascript">
+<?php endblock() ?>
+
+<?php startblock('jquery-extra') ?>
+<script>
 function loadSection(month, ubers, type, link) {
     if (!toggleSection(link)) {
         return;
@@ -85,6 +88,4 @@ function toggleSection(link) {
 }
 $('#stats').show();
 </script>
-
 <?php endblock() ?>
-
