@@ -48,6 +48,7 @@ require_once 'ti.php'
 
 <link rel="copyright" href="/sources" />
 <link rel="stylesheet" href="/content/style.css" type="text/css" />
+<link rel="shortcut icon" href="/favicon.ico" />
 <meta name="author" content="Cathy J. Fitzpatrick <cathy@cathyjf.com>" />
 <?php emptyblock('head-extra') ?>
 <script>
