@@ -40,9 +40,7 @@ The information in this section applies to the <code>pokemonlab.com</code> web s
 
 <h3>Web server logs</h3>
 
-<p>The <code>pokemonlab.com</code> web site is hosted by <a href="https://sourceforge.net">SourceForge</a>. Like most web servers, SourceForge's web servers may log basic information about traffic on this web site, including visitor IP addresses and pages loaded. For more information, see <a href="http://geeknetmedia.com/privacy-statement/">SourceForge's privacy statement</a>.</p>
-
-<p>SourceForge makes redacted versions of its logs available to us, in which the IP addresses of visitors are partially obscured and cannot be used to identify individual visitors. We use these logs only for monitoring and maintaining the web site, including identifying areas for improvement and fixing any problems that may arise.</p>
+<p>Like most web servers, the <code>pokemonlab.com</code> web servers may log basic information about traffic on this web site, including visitor IP addresses and pages loaded. We use these logs only for monitoring and maintaining the web site, including identifying areas for improvement and fixing any problems that may arise.</p>
 
 <h3>Google Analytics</h3>
 
@@ -59,7 +57,7 @@ The <code>pokemonlab.com</code> web site uses <a href="https://www.google.com/ad
 
 <h2>Pok&eacute;mon Lab and Shoddy Battle</h2>
 
-<p>The Pok&eacute;mon Lab and Shoddy Battle programs (the "software") generally do not send any information back to the developers of the software. The only exception is that some features of the software may download files from this web site. For example, the software may download images of Pok&eacute;mon from this web site in order to display those images in battles. When the software downloads files from this web site, those downloads may be logged by the SourceForge web servers, as described above. The privacy policy with respect to those logs is described above.</p>
+<p>The Pok&eacute;mon Lab and Shoddy Battle programs (the "software") generally do not send any information back to the developers of the software. The only exception is that some features of the software may download files from this web site. For example, the software may download images of Pok&eacute;mon from this web site in order to display those images in battles. When the software downloads files from this web site, those downloads may be logged by our web servers, as described above. The privacy policy with respect to those logs is described above.</p>
 
 <p>Individual server operators running the Pok&eacute;mon Lab and Shoddy Battle server software may collect information about users of their server, including IP addresses. We are not involved in this collection of information. For information about what information is collected by individual servers and how that information is used, please contact the operator of the server in question.</p>
 
