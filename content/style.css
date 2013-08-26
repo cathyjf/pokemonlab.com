@@ -21,14 +21,12 @@
  */
 
 html {
-    background-color: white;
-    color: black;
+    background-color: #fff;
+    color: #000;
     font-family: sans-serif;
     text-align: left;
-    margin: 0;
-    padding: 0;
 }
-body {
+html, body {
     margin: 0;
     padding: 0;
 }
@@ -43,7 +41,7 @@ div#top-bar {
 div#top-bar a {
     text-decoration: none;
 }
-div#ad-space, div.ad-space {
+div.ad-space {
     text-align: center;
     margin: 25px auto;
 }
@@ -61,7 +59,7 @@ div#logos {
 div#navigation {
     clear: both;
     text-align: center;
-    border-bottom: 2px rgb(180,186,224) solid;
+    border-bottom: 2px #B4BAE0 solid;
     padding: 4px 0;
 }
 div#navigation ul {
@@ -76,19 +74,16 @@ div#navigation li {
 }
 div#navigation li a {
     text-decoration: none;
-    color: white;
-    background-color: rgb(123, 130, 182);
-    padding-top: 5px;
-    padding-bottom: 5px;
-    padding-left: 12px;
-    padding-right: 12px;
-    border: 1px rgb(180,186,224) solid;
+    color: #fff;
+    background-color: #7B82B6;
+    padding: 5px 12px;
+    border: 1px #B4BAE0 solid;
 }
 div#navigation li a:hover {
-    background-color: rgb(84,92,154);
+    background-color: #545C9A;
 }
 div#navigation li a.selected {
-    background-color: rgb(180,186,224);
+    background-color: #B4BAE0;
 }
 div#content {
     min-height: 300px;
@@ -104,11 +99,11 @@ div#footer {
     margin: 4em auto 1em;
 }
 h1, h2, h3 {
-    color: rgb(84,92,154);
+    color: #545C9A;
 }
 h1 {
     font-size: 120%;
-    border-bottom: 1px rgb(180,186,224) solid;
+    border-bottom: 1px #B4BAE0 solid;
     padding: 5px;
 }
 h2 {
@@ -120,7 +115,7 @@ h3 {
     font-style: italic;
 }
 a {
-    color: rgb(84,92,154);
+    color: #545C9A;
 }
 a:hover {
     text-decoration: none;
