@@ -24,6 +24,18 @@ require 'layout.php';
 
 <?php startblock('title-postfix') ?> - Traffic data<?php endblock() ?>
 
+<?php startblock('head-extra') ?>
+<style>
+.traffic-table-cell {
+    vertical-align: top;
+    padding-right: 30px;
+}
+.traffic-table-cell tbody th {
+    padding-right: 10px;
+}
+</style>
+<?php endblock() ?>
+
 <?php startblock('content') ?>
 
 <h1>Traffic data</h1>

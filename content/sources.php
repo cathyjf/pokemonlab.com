@@ -26,6 +26,13 @@ require 'layout.php';
 
 <?php startblock('head-extra') ?>
 <meta name="description" content="Access the source code of Pok&eacute;mon Lab." />
+<style>
+table.borderless, table.borderless td, table.borderless tr {
+    border-collapse: collapse;
+    margin: 0;
+    padding: 0;
+}
+</style>
 <?php endblock() ?>
 
 <?php startblock('content') ?>

@@ -26,7 +26,7 @@ require 'layout.php';
 
 <?php startblock('head-extra') ?>
 <meta name="description" content="Pok&eacute;mon usage statistics from October 2007 to July 2008." />
-<style type="text/css">
+<style>
 #stats, #stats li ul, #stats li ol {
     display: none;
 }
