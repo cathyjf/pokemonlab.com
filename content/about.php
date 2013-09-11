@@ -117,7 +117,7 @@ The client-server protocol was designed so that the standard client could be use
 <p>
 Shoddy Battle was designed in a modular fashion so that one part of the program could be used without the others. For example, several other projects used Shoddy Battle's implementation of the Pok&eacute;mon game mechanics, including PokeNet Global, a now-defunct <abbr title="Massive Multiplayer Online Role-Playing Game">MMORPG</abbr>.</p>
 
-<p>The modular nature of Shoddy Battle meant that it was relatively easy to write tools that interoperate with the software. For example, <a href="contributors#Martin">Martin</a> wrote a tool to import teams from a plain text format. <a href="contributors#Cathy">Cathy</a> wrote a tool to <a href="http://www.smogon.com/dp/buildteam/">generate teams</a> based on the information in the <a href="http://www.smogon.com/dp/pokemon/">Smogon Strategy Pok&eacute;dex</a>, a community-maintained repository of information on Pok&eacute;mon game strategy. (Unfortunately, this tool is down as of December 2012.) Users released a number of interesting tools over the years.
+<p>The modular nature of Shoddy Battle meant that it was relatively easy to write tools that interoperate with the software. For example, <a href="contributors#Martin">Martin</a> wrote a tool to import teams from a plain text format. <a href="contributors#Cathy">Cathy</a> wrote a tool to generate teams based on the information in the <a href="http://www.smogon.com/dp/pokemon/">Smogon Strategy Pok&eacute;dex</a>, a community-maintained repository of information on Pok&eacute;mon game strategy. (Unfortunately, this tool is no longer available as of December 2012.) Users released a number of interesting tools over the years.
 </p>
 
 <h2 id="bots">Bots</h2>
