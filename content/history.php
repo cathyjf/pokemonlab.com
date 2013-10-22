@@ -82,7 +82,7 @@ Shoddy Battle's <a href="about#statistical-data">statatistical data collection a
 <h3 id="2009">2009</h3>
 
 <p>
-In April 2009, Smogon and Shoddy Battle became formally affiliated. The discussion forum for Shoddy Battle was hosted on Smogon from April 2009 to November 2010, and Smogon continues to host an <a href="http://www.smogon.com/forums/forumdisplay.php?f=85" rel="nofollow">archive</a> of those posts. (From November 2010 to December 2012, the discussion forum was hosted on this web site, and you can visit an archive <a href="forum-archive/">here</a>.)</p> <a href="contributors#Cathy">Cathy</a> also helped administer Smogon's Shoddy Battle server from that point on.
+In April 2009, Smogon and Shoddy Battle became formally affiliated. The discussion forum for Shoddy Battle was hosted on Smogon from April 2009 to November 2010, and Smogon continues to host an <a href="http://www.smogon.com/forums/forumdisplay.php?f=85" rel="nofollow">archive</a> of those posts. (From November 2010 to December 2012, the discussion forum was hosted on this web site, and you can visit an archive <a href="forum-archive/">here</a>.) <a href="contributors#Cathy">Cathy</a> also helped administer Smogon's Shoddy Battle server from that point on.
 </p>
 
 <h3 id="2010">2010</h3>
