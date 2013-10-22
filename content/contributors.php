@@ -55,7 +55,7 @@ Visit Cathy's <a href="https://cathyjf.com" title="cathyjf.com">personal web sit
 
 <h2 id="bearzly">Benjamin Gwin (bearzly)</h2>
 <div class="main-developer-contact-info">
-View bearzly's <a href="http://www.smogon.com/forums/member.php?u=32540">Smogon profile</a>. Email bearzly at <a href="mailto:bearzly@pokemonlab.com">bearzly@pokemonlab.com</a>.
+View bearzly's <a href="http://www.smogon.com/forums/member.php?u=32540" rel="nofollow">Smogon profile</a>. Email bearzly at <a href="mailto:bearzly@pokemonlab.com">bearzly@pokemonlab.com</a>.
 </div>
 
 <p>As one of the original two authors, bearzly contributed significantly to all aspects of Shoddy Battle. He was originally more familiar with Pok&eacute;mon than Cathy was, and he helped her learn many aspects of the game. He implemented many of the individual Pok&eacute;mon moves, abilities, items, and more. He filled in the details of aspects of the framework as necessary. He made many graphical design improvements with a view to enhacing usability. He designed and implemented the graphical user interface for Pok&eacute;mon Lab. He investigated and fixed countless bugs based on user reports.</p>
@@ -66,19 +66,19 @@ View bearzly's <a href="http://www.smogon.com/forums/member.php?u=32540">Smogon 
 
 <ul class="detailed-list">
 
-<li><a id="Super" href="http://www.smogon.com/forums/member.php?u=10558">Super</a>
+<li><a id="Super" href="http://www.smogon.com/forums/member.php?u=10558" rel="nofollow">Super</a>
 
 <div class="detailed-list-info">Significantly contributed to many aspects of Pok&eacute;mon Lab, including the game mechanics and the graphical user interface.</div>
 
 </li>
 
-<li><a id="DougJustDoug" href="http://www.smogon.com/forums/member.php?u=10787">DougJustDoug</a>
+<li><a id="DougJustDoug" href="http://www.smogon.com/forums/member.php?u=10787" rel="nofollow">DougJustDoug</a>
 
-<div class="detailed-list-info">Enhanced Shoddy Battle's customisation functionality to facilitate the <a href="http://www.smogon.com/forums/forumdisplay.php?f=66">Create-a-Pok&eacute;mon Project</a>. Contributed to the admin functionality of Shoddy Battle.</div>
+<div class="detailed-list-info">Enhanced Shoddy Battle's customisation functionality to facilitate the <a href="http://www.smogon.com/forums/forumdisplay.php?f=66" rel="nofollow">Create-a-Pok&eacute;mon Project</a>. Contributed to the admin functionality of Shoddy Battle.</div>
 
 </li>
 
-<li><a id="X-Act" href="http://www.smogon.com/forums/member.php?u=2412">X-Act</a>
+<li><a id="X-Act" href="http://www.smogon.com/forums/member.php?u=2412" rel="nofollow">X-Act</a>
 
 <div class="detailed-list-info">Researched the in-game damage formula. Provided an algorithm to verify the legality of any given combination of IVs, Nature, and Ability.</div>
 
@@ -90,25 +90,25 @@ View bearzly's <a href="http://www.smogon.com/forums/member.php?u=32540">Smogon 
 
 </li>
 
-<li><a id="Justin8649" href="http://www.smogon.com/forums/member.php?u=217">Justin8649</a>
+<li><a id="Justin8649" href="http://www.smogon.com/forums/member.php?u=217" rel="nofollow">Justin8649</a>
 
 <div class="detailed-list-info">Contributed to the admin functionality of Pok&eacute;mon Lab.</div>
 
 </li>
 
-<li><a id="AmazingAmpharos" href="http://www.smogon.com/forums/member.php?u=930">Amazing Ampharos</a>
+<li><a id="AmazingAmpharos" href="http://www.smogon.com/forums/member.php?u=930" rel="nofollow">Amazing Ampharos</a>
 
 <div class="detailed-list-info">Implemented the necessary changes to the Pok&eacute;mon database to support <a href="https://en.wikipedia.org/wiki/Pok&eacute;mon_Platinum">Pok&eacute;mon Platinum</a>.</div>
 
 </li>
 
-<li><a id="Encukou" href="http://www.smogon.com/forums/member.php?u=55205">Encukou</a>
+<li><a id="Encukou" href="http://www.smogon.com/forums/member.php?u=55205" rel="nofollow">Encukou</a>
 
 <div class="detailed-list-info">Fixed several bugs in Pok&eacute;mon Lab.</div>
 
 </li>
 
-<li><a id="Zracknel" href="http://www.smogon.com/forums/member.php?u=2231">Zracknel</a>
+<li><a id="Zracknel" href="http://www.smogon.com/forums/member.php?u=2231" rel="nofollow">Zracknel</a>
 
 <div class="detailed-list-info">Provided the logo for Pok&eacute;mon Lab.</div>
 

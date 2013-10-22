@@ -73,19 +73,16 @@ Shoddy Battle's <a href="about#statistical-data">statatistical data collection a
 
 <h3 id="2008">2008</h3>
 
-<p>In July 2008, <a href="http://smogon.com">Smogon</a> (the largest competitive Pok&eacute;mon community) began hosting a Shoddy Battle server, which almost immediately became the most popular server. Until that point, <a href="contributors#Cathy">Cathy</a> had hosted the most popular server. <a href="contributors#Cathy">Cathy</a> did not originally intend to host a server, but she had done so as a courtesy to the community. Once Smogon began to host a server, <a href="contributors#Cathy">Cathy</a> discontinued her server shortly thereafter.</p>
+<p>In July 2008, <a href="http://smogon.com" rel="nofollow">Smogon</a> (the largest competitive Pok&eacute;mon community) began hosting a Shoddy Battle server, which almost immediately became the most popular server. Until that point, <a href="contributors#Cathy">Cathy</a> had hosted the most popular server. <a href="contributors#Cathy">Cathy</a> did not originally intend to host a server, but she had done so as a courtesy to the community. Once Smogon began to host a server, <a href="contributors#Cathy">Cathy</a> discontinued her server shortly thereafter.</p>
 
-<p>Smogon also supported a second server running a modified version of the Pok&eacute;mon game (the <a href="http://www.smogon.com/forums/forumdisplay.php?f=66">Create-a-Pok&eacute;mon Project</a>), which was made possible by Shoddy Battle's robust <a href="about#extension">support for extension and customisation</a>.</p>
+<p>Smogon also supported a second server running a modified version of the Pok&eacute;mon game (the <a href="http://www.smogon.com/forums/forumdisplay.php?f=66" rel="nofollow">Create-a-Pok&eacute;mon Project</a>), which was made possible by Shoddy Battle's robust <a href="about#extension">support for extension and customisation</a>.</p>
 
 <p>On September 13, 2008, Nintendo&reg; released <a href="https://en.wikipedia.org/wiki/Pok&eacute;mon_Platinum">Pokémon Platinum</a>. Thanks to <a href="contributors#AmazingAmpharos">Amazing Ampharos</a>, Shoddy Battle was able to support Platinum starting on September 19, 2008 (very shortly after the release), which further enhanced the popularity of the program.</p>
 
 <h3 id="2009">2009</h3>
 
 <p>
-In April 2009, Smogon and Shoddy Battle became formally affiliated. The discussion forum for Shoddy Battle was hosted on Smogon from April 2009 to November 2010, and Smogon continues to host an <a href="http://www.smogon.com/forums/forumdisplay.php?f=85">archive</a> of those posts. (From November 2010 to December 2012, the discussion forum was hosted on this web site, and you can visit an archive <a href="forum-archive/">here</a>.)</p>
-
-<p>
-<a href="contributors#Cathy">Cathy</a> become an Administrator of the Smogon community in September 2009 and helped administer Smogon's Shoddy Battle server from that point on.
+In April 2009, Smogon and Shoddy Battle became formally affiliated. The discussion forum for Shoddy Battle was hosted on Smogon from April 2009 to November 2010, and Smogon continues to host an <a href="http://www.smogon.com/forums/forumdisplay.php?f=85" rel="nofollow">archive</a> of those posts. (From November 2010 to December 2012, the discussion forum was hosted on this web site, and you can visit an archive <a href="forum-archive/">here</a>.)</p> <a href="contributors#Cathy">Cathy</a> also helped administer Smogon's Shoddy Battle server from that point on.
 </p>
 
 <h3 id="2010">2010</h3>

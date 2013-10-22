@@ -66,7 +66,7 @@ require 'layout.php';
 <div class="detailed-list-info">
 
 <p>
-Shoddy Battle was designed from the ground up to be extensible; it included features that allowed users to design and play modified versions of the Pok&eacute;mon game. Customised games could include modified Pok&eacute;mon or even entirely new Pok&eacute;mon characters, as well as new moves, items, abilities, and rules. The creation of custom games proved popular and was the focus of a particular subset of the community (the <a href="http://www.smogon.com/forums/forumdisplay.php?f=66">Create-a-Pok&eacute;mon Project</a>).
+Shoddy Battle was designed from the ground up to be extensible; it included features that allowed users to design and play modified versions of the Pok&eacute;mon game. Customised games could include modified Pok&eacute;mon or even entirely new Pok&eacute;mon characters, as well as new moves, items, abilities, and rules. The creation of custom games proved popular and was the focus of a particular subset of the community (the <a href="http://www.smogon.com/forums/forumdisplay.php?f=66" rel="nofollow">Create-a-Pok&eacute;mon Project</a>).
 </p>
 <p>
 Shoddy Battle and Pok&eacute;mon Lab also supported extension through bots &mdash; that is, programs that joined the server and interacted with other users. Some bots helped with moderation tasks, whereas others included <abbr title="Artificial Intelligence">AI</abbr> code and could challenge human players to matches, such as <a href="http://doublewise.net/pokemon/">Technical Machine</a>.

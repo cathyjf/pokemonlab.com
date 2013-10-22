@@ -70,11 +70,11 @@ Table of contents:
 <li>The Pok&eacute;mon community was no longer dependent on any particular person to maintain the simulator. All users were free to learn from the source and <a href="contributors">contribute to it</a>.</li>
 <li>Shoddy Battle had a proper client-server network architecture which was secure and did not suffer from obvious flaws. The fact that the source code was open encouraged people to try to find security flaws (and some users did try to do this), which allowed flaws to be found and corrected faster, rather than being undetected until exploited.</li>
 <li>Shoddy Battle was a much more accurate simulation than any previous simulator because users could review the source code for errors rather than having to run tests. Additionally, errors could be fixed faster because more users could solve them.</li>
-<li>The availability of the source code encouraged users to extend the program to add new features. For example, <a href="contributors#DougJustDoug">DougJustDoug</a> extended Shoddy Battle to support the <a href="http://www.smogon.com/forums/forumdisplay.php?f=66">Create-a-Pok&eacute;mon Project</a>.</li>
+<li>The availability of the source code encouraged users to extend the program to add new features. For example, <a href="contributors#DougJustDoug">DougJustDoug</a> extended Shoddy Battle to support the <a href="http://www.smogon.com/forums/forumdisplay.php?f=66" rel="nofollow">Create-a-Pok&eacute;mon Project</a>.</li>
 <li>Other Pok&eacute;mon projects were able to use the Shoddy Battle codebase to provide Pok&eacute;mon battle mechanics. For example, several Pok&eacute;mon-themed <abbr title="Massive Multiplayer Online Role-Playing Game">MMORPG</abbr>s used the Shoddy Battle codebase. Open source code also made it easier for other projects to interoperate with Shoddy Battle.</li>
 </ul>
 
-<p>The open source nature of Shoddy Battle was so beneficial for the Pok&eacute;mon community that all subsequent Pok&eacute;mon simulators have been free and open source. In fact, within weeks of Shoddy Battle's release in July 2007, the developers of upcoming rival simulators, such as <a href="http://www.smogon.com/forums/showthread.php?t=64930">Smogon Competitor</a>, announced that their formerly closed source simulators would instead be open source. As of December 2012, the current most popular simulator, <a href="http://pokemonshowdown.com/">Pok&eacute;mon Showdown</a>, is also free and open source.</p>
+<p>The open source nature of Shoddy Battle was so beneficial for the Pok&eacute;mon community that all subsequent Pok&eacute;mon simulators have been free and open source. In fact, within weeks of Shoddy Battle's release in July 2007, the developers of upcoming rival simulators, such as <a href="http://www.smogon.com/forums/showthread.php?t=64930" rel="nofollow">Smogon Competitor</a>, announced that their formerly closed source simulators would instead be open source. As of December 2012, the current most popular simulator, <a href="http://pokemonshowdown.com/">Pok&eacute;mon Showdown</a>, is also free and open source.</p>
 
 
 <h1 id="scalability"><a href="#introduction">&sect;</a> Scalability</h1>
@@ -94,7 +94,7 @@ Battles played per month on the Official/Smogon server (<a href="traffic-data">v
 
 <p>As can be seen from the graph, the <a href="traffic-data">amount of traffic</a> increased rapidly to reach over six times the initial levels (which is the level of traffic that was that contemplated during development). At its peak, around 700,000 battles were played per month on the Smogon server &mdash; around one battle starting every four seconds. Shoddy Battle served the community admirably by handling these high levels of traffic. Between October 2007 and July 2010, there were around 12.3 million battles played on the Official/Smogon server.</p>
 
-<p>It is also worth noting that the Official/Smogon server was not the only server. There were a number of other large servers, such as the <a href="http://www.smogon.com/forums/forumdisplay.php?f=66">Create-a-Pok&eacute;mon Project</a> server and the <a href="http://www.pokemonexperte.de/">Pokemonexperte</a> server, as well as a variety of smaller niche servers.</p>
+<p>It is also worth noting that the Official/Smogon server was not the only server. There were a number of other large servers, such as the <a href="http://www.smogon.com/forums/forumdisplay.php?f=66" rel="nofollow">Create-a-Pok&eacute;mon Project</a> server and the <a href="http://www.pokemonexperte.de/">Pokemonexperte</a> server, as well as a variety of smaller niche servers.</p>
 
 <p>In the years following Shoddy Battle, the popularity of online competitive Pok&eacute;mon has continued to grow and subsequent simulators have had to continue the tradition of high scalability set by Shoddy Battle.</p>
 
@@ -105,7 +105,7 @@ Battles played per month on the Official/Smogon server (<a href="traffic-data">v
 <h2 id="modification">Modification of the game</h2>
 
 <p>
-In Shoddy Battle, the individual moves, abilities, items, rules (called "clauses"), etc. were implemented using a flexible and intuitive API in order to facilitate modification, extension, and the creation of new moves, etc. The framework also allowed for the creation of entirely new Pok&eacute;mon characters. Some changes could be made with no programming, and even when programming was required, it was simple and within reach of non-programmers. Many users created modified Pok&eacute;mon games. The most popular sub-community centred on modifying on the game was the <a href="http://www.smogon.com/forums/forumdisplay.php?f=66">Create-a-Pok&eacute;mon Project</a>, but there were other groups and individuals as well.
+In Shoddy Battle, the individual moves, abilities, items, rules (called "clauses"), etc. were implemented using a flexible and intuitive API in order to facilitate modification, extension, and the creation of new moves, etc. The framework also allowed for the creation of entirely new Pok&eacute;mon characters. Some changes could be made with no programming, and even when programming was required, it was simple and within reach of non-programmers. Many users created modified Pok&eacute;mon games. The most popular sub-community centred on modifying on the game was the <a href="http://www.smogon.com/forums/forumdisplay.php?f=66" rel="nofollow">Create-a-Pok&eacute;mon Project</a>, but there were other groups and individuals as well.
 </p>
 
 <p>
@@ -117,7 +117,7 @@ The client-server protocol was designed so that the standard client could be use
 <p>
 Shoddy Battle was designed in a modular fashion so that one part of the program could be used without the others. For example, several other projects used Shoddy Battle's implementation of the Pok&eacute;mon game mechanics, including PokeNet Global, a now-defunct <abbr title="Massive Multiplayer Online Role-Playing Game">MMORPG</abbr>.</p>
 
-<p>The modular nature of Shoddy Battle meant that it was relatively easy to write tools that interoperate with the software. For example, <a href="contributors#Martin">Martin</a> wrote a tool to import teams from a plain text format. <a href="contributors#Cathy">Cathy</a> wrote a tool to generate teams based on the information in the <a href="http://www.smogon.com/dp/pokemon/">Smogon Strategy Pok&eacute;dex</a>, a community-maintained repository of information on Pok&eacute;mon game strategy. (Unfortunately, this tool is no longer available as of December 2012.) Users released a number of interesting tools over the years.
+<p>The modular nature of Shoddy Battle meant that it was relatively easy to write tools that interoperate with the software. For example, <a href="contributors#Martin">Martin</a> wrote a tool to import teams from a plain text format. <a href="contributors#Cathy">Cathy</a> wrote a tool to generate teams based on the information in the <a href="http://www.smogon.com/dp/pokemon/" rel="nofollow">Smogon Strategy Pok&eacute;dex</a>, a community-maintained repository of information on Pok&eacute;mon game strategy. (Unfortunately, this tool is no longer available as of December 2012.) Users released a number of interesting tools over the years.
 </p>
 
 <h2 id="bots">Bots</h2>
@@ -136,7 +136,7 @@ In contrast to previous simulators, the network protocols for Shoddy Battle and 
 <li>play battles with users.</li>
 </ul>
 
-<p>One impressive bot is <a href="http://doublewise.net/pokemon/">Technical Machine</a>, an <abbr title="Artificial Intelligence">AI</abbr> project by <a href="http://www.smogon.com/forums/member.php?u=1098">david stone</a> that plays intelligent Pok&eacute;mon matches on Pok&eacute;mon Lab (and some other simulators) using a minimax-based algorithm.</p>
+<p>One impressive bot is <a href="http://doublewise.net/pokemon/">Technical Machine</a>, an <abbr title="Artificial Intelligence">AI</abbr> project by <a href="http://www.smogon.com/forums/member.php?u=1098" rel="nofollow">david stone</a> that plays intelligent Pok&eacute;mon matches on Pok&eacute;mon Lab (and some other simulators) using a minimax-based algorithm.</p>
 
 <h2 id="extensibility-outlook">Outlook</h2>
 
@@ -200,7 +200,7 @@ This system also helped players find matches quickly because it reduced the vari
 
 <p>At first, the statistics collected and reported were fairly basic and consisted of information on how often each Pok&eacute;mon was used in each ruleset as a team-member and as a lead (initial Pok&eacute;mon). Even these basic statistics were unprecedented in the competitive Pok&eacute;mon community and had immediate practical applications and theoretical consequences (discussed below). As time went on, the statistics collected and reported became increasingly detailed and informative.</p>
 
-<p>The statistics for <a href="contributors#Cathy">Cathy</a>'s server from October 2007 to July 2008 are <a href="stats-archive">archived on this web site</a>.<br />The statistics for <a href="history#2008">Smogon Server</a> from July 2008 to July 2010 are <a href="http://www.smogon.com/forums/forumdisplay.php?f=114">archived on Smogon</a>.</p>
+<p>The statistics for <a href="contributors#Cathy">Cathy</a>'s server from October 2007 to July 2008 are <a href="stats-archive">archived on this web site</a>.<br />The statistics for <a href="history#2008">Smogon Server</a> from July 2008 to July 2010 are <a href="http://www.smogon.com/forums/forumdisplay.php?f=114" rel="nofollow">archived on Smogon</a>.</p>
 
 <p>In addition to the basic statistics on the popularity of each species of Pok&eacute;mon, the statistics collected and reported over the years included the following:</p>
 

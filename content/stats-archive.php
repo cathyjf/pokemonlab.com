@@ -37,7 +37,7 @@ require 'layout.php';
 
 <h1>Stats archive</h1>
 
-<p>This page archives the <a href="about#type-of-statistics">statistics</a> collected from <a href="contributors#Cathy">Cathy</a>'s server during October 2007 to July 2008.<br />The statistics for <a href="history#2008">Smogon Server</a> from July 2008 to July 2010 are <a href="http://www.smogon.com/forums/forumdisplay.php?f=114">archived on Smogon</a>.</p>
+<p>This page archives the <a href="about#type-of-statistics">statistics</a> collected from <a href="contributors#Cathy">Cathy</a>'s server during October 2007 to July 2008.<br />The statistics for <a href="history#2008">Smogon Server</a> from July 2008 to July 2010 are <a href="http://www.smogon.com/forums/forumdisplay.php?f=114" rel="nofollow">archived on Smogon</a>.</p>
 
 <p>The following explanation of these stats is from the original "Pok&eacute;mon Usage Statistics" page and was written by <a href="contributors#Cathy">Cathy</a> in October 2007:</p>
 
