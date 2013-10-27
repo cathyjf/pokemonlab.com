@@ -19,6 +19,7 @@
  */
 
 $_CURRENT_SECTION = 'donate';
+define('NO_ADS', true);
 require 'layout.php';
 ?>
 

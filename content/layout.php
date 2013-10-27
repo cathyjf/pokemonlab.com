@@ -62,7 +62,9 @@ require_once 'ti.php'
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
+<?php if (!defined('NO_ADS')) { ?>
 <script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<?php } ?>
 </head>
 <body>
 <div id="container">
@@ -105,6 +107,7 @@ foreach ($nav as $i => &$j) {
 
 <div id="content">
 
+<?php if (!defined('NO_ADS')) { ?>
 <div class="ad-space">
 <ins class="adsbygoogle"
   data-ad-client="ca-pub-9146387889076075"
@@ -113,6 +116,7 @@ foreach ($nav as $i => &$j) {
   (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 </div>
+<?php } ?>
 
 <?php emptyblock('content') ?>
 </div>
