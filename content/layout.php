@@ -123,7 +123,7 @@ foreach ($nav as $i => &$j) {
 
 <div id="footer">
 <p>
-Shoddy Battle and Pok&eacute;mon Lab are &copy; 2006&ndash;2012 by <a rel="author" href="https://cathyjf.com">Cathy J. Fitzpatrick</a>, Benjamin Gwin, and others.<br/>
+Shoddy Battle and Pok&eacute;mon Lab are &copy; 2006&ndash;2013 by <a rel="author" href="https://cathyjf.com">Cathy J. Fitzpatrick</a>, Benjamin Gwin, and others.<br/>
 See <a href="/contributors">contributors</a>, <a href="/sources">source code and licensing</a>, and <a href="/privacy-policy">privacy policy</a>.
 </p>
 </div>
