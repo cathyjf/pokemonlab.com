@@ -58,7 +58,7 @@ Pok&eacute;mon Lab source code is available in the <a href="http://shoddybattle.
 a nicer source browser (see links above). See the licence notice at the top of each individual file for details on the licence applicable to that file.
 </td>
 <td style="padding-left: 10px;">
-<a href="http://www.fsf.org/licensing/licenses/agpl-3.0.html"><img src="https://www.gnu.org/graphics/agplv3-88x31.png" alt="GNU Affero General Public License v3" style="border-width: 0;" /></a>
+<a href="http://www.fsf.org/licensing/licenses/agpl-3.0.html"><img src="/images/agplv3-88x31.png" alt="GNU Affero General Public License v3" style="border-width: 0;" /></a>
 </td>
 </tr>
 </table>
@@ -82,10 +82,9 @@ file. Most content on this web site is dual licensed under (1) the <a href="http
 License</a> ("CC-BY-SA-3U"), and (2) the <a href="http://www.fsf.org/licensing/licenses/agpl-3.0.html">GNU Affero General Public License</a>, version 3 or later ("AGPLv3+"). You may use, modify, or redistribute files dual licensed in this manner pursuant to either the CC-BY-SA-3U or the AGPLv3+, whichever licence is more convenient for you. If you use content from this web site pursuant to the CC-BY-SA-3U, you must attribute it to <code>pokemonlab.com</code>.
 </td>
 <td style="padding-left: 10px;">
-<a href="http://creativecommons.org/licenses/by-sa/3.0/"><img 
-alt="Creative Commons License" style="border-width: 0;" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a>
+<a href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width: 0;" src="/images/ccbysa3-88x31.png" /></a>
 <br />
-<a href="http://www.fsf.org/licensing/licenses/agpl-3.0.html"><img src="https://www.gnu.org/graphics/agplv3-88x31.png" alt="GNU Affero General Public License v3" style="border-width: 0; margin-top: 5px;" /></a>
+<a href="http://www.fsf.org/licensing/licenses/agpl-3.0.html"><img src="/images/agplv3-88x31.png" alt="GNU Affero General Public License v3" style="border-width: 0; margin-top: 5px;" /></a>
 </td>
 </tr>
 </table>
