@@ -38,7 +38,7 @@ Shoddy Battle and Pok&eacute;mon Lab were created by <a href="#Cathy">Cathy</a> 
 
 <h1 id="main-developers">Main developers</h1>
 
-<p>Cathy and bearzly were the original authors and primary developers of Shoddy Battle and Pok&eacute;mon Lab. If you enjoyed using the software or have questions or comments, please feel free to contact them and let them know. They would appreciate hearing from you.</p>
+<p>Cathy and bearzly were the original authors and primary developers of Shoddy Battle and Pok&eacute;mon Lab. If you enjoyed using the software or have questions or comments, please feel free to contact them at <a href="mailto:developers@pokemonlab.com">developers@pokemonlab.com</a> and let them know. They appreciate hearing from you.</p>
 
 <h2 id="Cathy">Cathy J. Fitzpatrick (Cathy)</h2>
 <div class="main-developer-contact-info">
@@ -51,7 +51,7 @@ Visit Cathy's <a href="https://cathyjf.com" title="cathyjf.com">personal web sit
 
 <p>Cathy created the present <code>pokemonlab.com</code> web site in December 2012 in order to memorialise the Shoddy Battle project and provide information on its significance to competitive Pok&eacute;mon.</p>
 
-<p>In January 2013, Cathy became a lead developer of <a href="http://pokemonshowdown.com">Pok&eacute;mon Showdown</a>.</p>
+<p>You can visit Cathy's personal web site at <a href="https://cathyjf.com">cathyjf.com</a>.</p>
 
 <h2 id="bearzly">Benjamin Gwin (bearzly)</h2>
 <div class="main-developer-contact-info">

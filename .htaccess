@@ -95,6 +95,7 @@ RewriteRule ^content/setup-database\.php$ - [F]
 RewriteRule ^content/ti\.php$ - [F]
 RewriteRule ^content/layout\.php$ - [F]
 RewriteRule ^content/stats-construct-list\.php$ - [F]
+RewriteRule ^content/status-footer\.php$ - [F]
 RewriteRule ^content/$ - [F]
 RewriteRule ^forum-archive/adm/.*$ - [F]
 

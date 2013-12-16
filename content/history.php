@@ -107,6 +107,8 @@ With the conclusion of the 4th generation, Shoddy Battle has been superseded by 
 
 <h3 id="conclusion">Conclusion</h3>
 
-<p>Shoddy Battle significantly changed the landscape of competitive Pok&eacute;mon. On another page, you can read more about Shoddy Battle's <a href="about">contributions to competitive Pok&eacute;mon</a>. If you enjoyed using Shoddy Battle or have questions or comments, please feel free to email <a href="contributors#Cathy">Cathy</a>&nbsp;(<a href="mailto:cathy@pokemonlab.com">cathy@pokemonlab.com</a>) and <a href="contributors#bearzly">bearzly</a>&nbsp;(<a href="mailto:bearzly@pokemonlab.com">bearzly@pokemonlab.com</a>) and let them know. They would appreciate hearing from you.</p>
+<p>Shoddy Battle significantly changed the landscape of competitive Pok&eacute;mon. On another page, you can read more about Shoddy Battle's <a href="about">contributions to competitive Pok&eacute;mon</a>.</p>
+
+<?php require_once('status-footer.php') ?>
 
 <?php endblock(); ?>

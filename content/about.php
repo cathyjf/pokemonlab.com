@@ -284,6 +284,6 @@ Shoddy Battle significantly changed the landscape of the competitive Pok&eacute;
 With the conclusion of the 4th generation, Shoddy Battle has been superseded by other simulators such as <a href="http://pokemonshowdown.com/">Pok&eacute;mon Showdown</a>. Shoddy Battle remains notable for the changes it effected in the Pok&eacute;mon community. Later Pok&eacute;mon simulators have followed the path set by Shoddy Battle and continue to expand on the above advances. On another page, you can also read about the <a href="history">history of Shoddy Battle</a>.
 </p>
 
-<p>If you enjoyed using Shoddy Battle or have questions or comments, please feel free to email <a href="contributors#Cathy">Cathy</a>&nbsp;(<a href="mailto:cathy@pokemonlab.com">cathy@pokemonlab.com</a>) and <a href="contributors#bearzly">bearzly</a>&nbsp;(<a href="mailto:bearzly@pokemonlab.com">bearzly@pokemonlab.com</a>) and let them know. They would appreciate hearing from you.</p>
+<?php require_once('status-footer.php') ?>
 
 <?php endblock(); ?>

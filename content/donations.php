@@ -72,6 +72,6 @@ require 'layout.php';
 
 </table>
 
-<p>If you enjoyed using Shoddy Battle or have questions or comments, please feel free to email <a href="contributors#Cathy">Cathy</a>&nbsp;(<a href="mailto:cathy@pokemonlab.com">cathy@pokemonlab.com</a>) and <a href="contributors#bearzly">bearzly</a>&nbsp;(<a href="mailto:bearzly@pokemonlab.com">bearzly@pokemonlab.com</a>) and let them know. They would appreciate hearing from you.</p>
+<?php require_once('status-footer.php') ?>
 
 <?php endblock() ?>
