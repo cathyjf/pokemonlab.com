@@ -1,9 +1,9 @@
 <?php
 /**
- * This file is part of the pokemonlab.com web site.
+ * This file is part of the pokemonlab.com website.
  * Copyright (C) 2012-2013  Cathy J. Fitzpatrick <cathy@pokemonlab.com>
  *
- * This web site is free. This file is dual licensed under
+ * This website is free. This file is dual licensed under
  *
  *   1) the Creative Commons Attribution-ShareAlike 3.0 Unported License
  *        <http://creativecommons.org/licenses/by-sa/3.0>, and
@@ -15,7 +15,7 @@
  * above licences, whichever is more convenient for you.
  *
  * See <http://pokemonlab.com/sources> for more details, including information
- * on how to attribute content to this web site.
+ * on how to attribute content to this website.
  */
 
 $_CURRENT_SECTION = 'home';
@@ -36,7 +36,7 @@ require 'layout.php';
 <p>Shoddy Battle simulates the 4th generation of Pok&eacute;mon games, which began with the release of <a href="https://en.wikipedia.org/wiki/Pok%C3%A9mon_Diamond_and_Pearl">Pok&eacute;mon Diamond and Pearl</a> in September 2006 in Japan and April 2007 in North America. During the 4th generation (roughly 2007&ndash;2010), Shoddy Battle was the main Pok&eacute;mon simulator used by the competitive Pok&eacute;mon community.
 </p>
 
-<p>On this web site, you can learn about Shoddy Battle and its <a href="about">contributions to competitive Pok&eacute;mon</a>. You can also read about the <a href="history">history of Shoddy Battle</a>. The program itself is also still available to <a href="downloads">play</a>.</p>
+<p>On this website, you can learn about Shoddy Battle and its <a href="about">contributions to competitive Pok&eacute;mon</a>. You can also read about the <a href="history">history of Shoddy Battle</a>. The program itself is also still available to <a href="downloads">play</a>.</p>
 
 <h1>Advances</h1>
 

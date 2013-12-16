@@ -1,9 +1,9 @@
 <?php
 /**
- * This file is part of the pokemonlab.com web site.
+ * This file is part of the pokemonlab.com website.
  * Copyright (C) 2012-2013  Cathy J. Fitzpatrick <cathy@pokemonlab.com>
  *
- * This web site is free. This file is dual licensed under
+ * This website is free. This file is dual licensed under
  *
  *   1) the Creative Commons Attribution-ShareAlike 3.0 Unported License
  *        <http://creativecommons.org/licenses/by-sa/3.0>, and
@@ -15,7 +15,7 @@
  * above licences, whichever is more convenient for you.
  *
  * See <http://pokemonlab.com/sources> for more details, including information
- * on how to attribute content to this web site.
+ * on how to attribute content to this website.
  */
 
 $_CURRENT_SECTION = '';

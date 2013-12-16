@@ -1,9 +1,9 @@
 <?php
 /**
- * This file is part of the pokemonlab.com web site.
+ * This file is part of the pokemonlab.com website.
  * Copyright (C) 2012-2013  Cathy J. Fitzpatrick <cathy@pokemonlab.com>
  *
- * This web site is free. This file is dual licensed under
+ * This website is free. This file is dual licensed under
  *
  *   1) the Creative Commons Attribution-ShareAlike 3.0 Unported License
  *        <http://creativecommons.org/licenses/by-sa/3.0>, and
@@ -15,7 +15,7 @@
  * above licences, whichever is more convenient for you.
  *
  * See <http://pokemonlab.com/sources> for more details, including information
- * on how to attribute content to this web site.
+ * on how to attribute content to this website.
  */
 
 $_CURRENT_SECTION = 'advances';
@@ -200,7 +200,7 @@ This system also helped players find matches quickly because it reduced the vari
 
 <p>At first, the statistics collected and reported were fairly basic and consisted of information on how often each Pok&eacute;mon was used in each ruleset as a team-member and as a lead (initial Pok&eacute;mon). Even these basic statistics were unprecedented in the competitive Pok&eacute;mon community and had immediate practical applications and theoretical consequences (discussed below). As time went on, the statistics collected and reported became increasingly detailed and informative.</p>
 
-<p>The statistics for <a href="contributors#Cathy">Cathy</a>'s server from October 2007 to July 2008 are <a href="stats-archive">archived on this web site</a>.<br />The statistics for <a href="history#2008">Smogon Server</a> from July 2008 to July 2010 are <a href="http://www.smogon.com/forums/forumdisplay.php?f=114" rel="nofollow">archived on Smogon</a>.</p>
+<p>The statistics for <a href="contributors#Cathy">Cathy</a>'s server from October 2007 to July 2008 are <a href="stats-archive">archived on this website</a>.<br />The statistics for <a href="history#2008">Smogon Server</a> from July 2008 to July 2010 are <a href="http://www.smogon.com/forums/forumdisplay.php?f=114" rel="nofollow">archived on Smogon</a>.</p>
 
 <p>In addition to the basic statistics on the popularity of each species of Pok&eacute;mon, the statistics collected and reported over the years included the following:</p>
 

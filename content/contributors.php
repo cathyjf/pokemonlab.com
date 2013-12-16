@@ -1,9 +1,9 @@
 <?php
 /**
- * This file is part of the pokemonlab.com web site.
+ * This file is part of the pokemonlab.com website.
  * Copyright (C) 2012-2013  Cathy J. Fitzpatrick <cathy@pokemonlab.com>
  *
- * This web site is free. This file is dual licensed under
+ * This website is free. This file is dual licensed under
  *
  *   1) the Creative Commons Attribution-ShareAlike 3.0 Unported License
  *        <http://creativecommons.org/licenses/by-sa/3.0>, and
@@ -15,7 +15,7 @@
  * above licences, whichever is more convenient for you.
  *
  * See <http://pokemonlab.com/sources> for more details, including information
- * on how to attribute content to this web site.
+ * on how to attribute content to this website.
  */
 
 $_CURRENT_SECTION = 'contributors';
@@ -42,16 +42,16 @@ Shoddy Battle and Pok&eacute;mon Lab were created by <a href="#Cathy">Cathy</a> 
 
 <h2 id="Cathy">Cathy J. Fitzpatrick (Cathy)</h2>
 <div class="main-developer-contact-info">
-Visit Cathy's <a href="https://cathyjf.com" title="cathyjf.com">personal web site</a>. Email Cathy at <a href="mailto:cathy@pokemonlab.com">cathy@pokemonlab.com</a>.
+Visit Cathy's <a href="https://cathyjf.com" title="cathyjf.com">personal website</a>. Email Cathy at <a href="mailto:cathy@pokemonlab.com">cathy@pokemonlab.com</a>.
 </div>
 
 <p>Cathy is a programmer currently living in Edmonton, AB, Canada. She recently graduated from the University of Alberta with a BSc (Hons) in Computing Science in June 2012. She has been programming since before she was 12 years old. She enjoys problem-solving and is an avid player of video games, especially RPGs.</p>
 
 <p>Cathy designed the framework for Shoddy Battle from scratch in 2006 and implemented most of the program, including the battle mechanics, the user skill ranking system, the network infrastructure, the client-side user interface, the moderation tools, the extensibility features, the collection of statistical Pok&eacute;mon data, and more. In addition, she provided a framework that allowed other people to write bots for the software. She also actively provided assistance and technical support to users from 2007&ndash;2010.</p>
 
-<p>Cathy created the present <code>pokemonlab.com</code> web site in December 2012 in order to memorialise the Shoddy Battle project and provide information on its significance to competitive Pok&eacute;mon.</p>
+<p>Cathy created the present <code>pokemonlab.com</code> website in December 2012 in order to memorialise the Shoddy Battle project and provide information on its significance to competitive Pok&eacute;mon.</p>
 
-<p>You can visit Cathy's personal web site at <a href="https://cathyjf.com">cathyjf.com</a>.</p>
+<p>You can visit Cathy's personal website at <a href="https://cathyjf.com">cathyjf.com</a>.</p>
 
 <h2 id="bearzly">Benjamin Gwin (bearzly)</h2>
 <div class="main-developer-contact-info">

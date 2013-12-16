@@ -1,9 +1,9 @@
 <?php
 /**
- * This file is part of the pokemonlab.com web site.
+ * This file is part of the pokemonlab.com website.
  * Copyright (C) 2012-2013  Cathy J. Fitzpatrick <cathy@pokemonlab.com>
  *
- * This web site is free. This file is dual licensed under
+ * This website is free. This file is dual licensed under
  *
  *   1) the Creative Commons Attribution-ShareAlike 3.0 Unported License
  *        <http://creativecommons.org/licenses/by-sa/3.0>, and
@@ -15,7 +15,7 @@
  * above licences, whichever is more convenient for you.
  *
  * See <http://pokemonlab.com/sources> for more details, including information
- * on how to attribute content to this web site.
+ * on how to attribute content to this website.
  */
 
 $_CURRENT_SECTION = 'history';
@@ -82,7 +82,7 @@ Shoddy Battle's <a href="about#statistical-data">statatistical data collection a
 <h3 id="2009">2009</h3>
 
 <p>
-In April 2009, Smogon and Shoddy Battle became formally affiliated. The discussion forum for Shoddy Battle was hosted on Smogon from April 2009 to November 2010, and Smogon continues to host an <a href="http://www.smogon.com/forums/forumdisplay.php?f=85" rel="nofollow">archive</a> of those posts. (From November 2010 to December 2012, the discussion forum was hosted on this web site, and you can visit an archive <a href="forum-archive/">here</a>.) <a href="contributors#Cathy">Cathy</a> also helped administer Smogon's Shoddy Battle server from that point on.
+In April 2009, Smogon and Shoddy Battle became formally affiliated. The discussion forum for Shoddy Battle was hosted on Smogon from April 2009 to November 2010, and Smogon continues to host an <a href="http://www.smogon.com/forums/forumdisplay.php?f=85" rel="nofollow">archive</a> of those posts. (From November 2010 to December 2012, the discussion forum was hosted on this website, and you can visit an archive <a href="forum-archive/">here</a>.) <a href="contributors#Cathy">Cathy</a> also helped administer Smogon's Shoddy Battle server from that point on.
 </p>
 
 <h3 id="2010">2010</h3>
@@ -102,7 +102,7 @@ With the conclusion of the 4th generation, Shoddy Battle has been superseded by 
 <h3 id="2012">2012</h3>
 
 <p>
-<a href="contributors#Cathy">Cathy</a> created the present <code>pokemonlab.com</code> web site in December 2012 in order to provide historical information on the significance of Shoddy Battle and Pok&eacute;mon Lab.
+<a href="contributors#Cathy">Cathy</a> created the present <code>pokemonlab.com</code> website in December 2012 in order to provide historical information on the significance of Shoddy Battle and Pok&eacute;mon Lab.
 </p>
 
 <h3 id="conclusion">Conclusion</h3>
