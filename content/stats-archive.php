@@ -19,7 +19,6 @@
  */
 
 $_CURRENT_SECTION = '';
-define('NO_ADS', true);
 require 'layout.php';
 ?>
 
