@@ -28,17 +28,17 @@ ErrorDocument 404 /content/error404.php
 RewriteCond %{HTTP_HOST}    =trac.poke-lab.com
 RewriteCond %{REQUEST_URI}  !^/browser/
 RewriteCond %{REQUEST_URI}  !^/browser$
-RewriteRule ^(.*)           http://pokemonlab.com/    [R=301,L]
+RewriteRule ^(.*)           https://pokemonlab.com/    [R=301,L]
 
 # Redirect forum.poke-lab.com to the forum archive.
 RewriteCond %{HTTP_HOST}    =forum.poke-lab.com
-RewriteRule ^(.*)           http://pokemonlab.com/forum-archive/$1  [R=301,L]
+RewriteRule ^(.*)           https://pokemonlab.com/forum-archive/$1  [R=301,L]
 
 # Set host to pokemonlab.com.
 RewriteCond %{HTTP_HOST}    !=pokemonlab.com
 RewriteCond %{HTTP_HOST}    !^$
 RewriteCond %{REQUEST_URI}  !/metaserver\.txt$
-RewriteRule ^(.*)           http://pokemonlab.com/$1  [R=301,L]
+RewriteRule ^(.*)           https://pokemonlab.com/$1  [R=301,L]
 
 # Redirects for the Mercurial repository.
 RewriteCond %{REQUEST_URI}  ^/hg/        [OR]
@@ -69,7 +69,7 @@ RewriteRule ^home_page$ / [R=301,L]
 
 # Consolidate some duplicate URIs.
 RewriteRule ^shoddybattle\.png$ images/shoddybattle-logo.png [R=301,L]
-RewriteRule ^images/pokelablogo\.png$ images/pokelab-logo.png [R=301,L]
+RewriteRule ^images/pokelablogo\.png$ https://pokemonlab.com/images/pokelab-logo.png [R=301,L]
 RewriteRule ^images/pokelablogo-small\.png$ images/pokelab-logo-small.png [R=301,L]
 RewriteRule ^images/pokelablogolarge\.png$ images/pokelab-logo-large.png [R=301,L]
 RewriteRule ^favicon\.gif$ images/favicon.gif [R=301,L]
