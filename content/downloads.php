@@ -27,8 +27,9 @@ require 'layout.php';
 <?php startblock('head-extra') ?>
 <meta name="description" content="Download Shoddy Battle and Pok&eacute;mon Lab here." />
 <script>
-if (document.referrer && (document.referrer.substr(0, 21) !== 'http://pokemonlab.com')) {
-	document.location.replace('http://pokemonlab.com');
+if (document.referrer && (document.referrer.substr(0, 22) !== 'https://pokemonlab.com') &&
+		(document.referrer.substr(0, 21) !== 'http://pokemonlab.com')) {
+	document.location.replace('https://pokemonlab.com');
 }
 </script>
 <?php endblock() ?>

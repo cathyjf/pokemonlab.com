@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <jnlp
     spec="1.0+"
-    codebase="http://shoddybattle.com/client/"
+    codebase="https://pokemonlab.com/clients/shoddybattle/"
     href="shoddybattle.jnlp">
     <information>
         <title>Shoddy Battle</title>
         <vendor>Cathy Fitzpatrick &amp; Benjamin Gwin</vendor>
-        <homepage href="http://shoddybattle.com" />
+        <homepage href="https://pokemonlab.com" />
         <description kind="short">An extensible Pokemon simulator</description>
         <description>A pokemon simulator that is free as in freedom</description>
         <shortcut online="true">
             <desktop />
             <menu />
         </shortcut>
-        <icon href="http://shoddybattle.com/client/icon.gif" width="64" height="64" />
+        <icon href="https://pokemonlab.com/clients/shoddybattle/icon.gif" width="64" height="64" />
     </information>
     <resources>
         <j2se version="1.4+" />
@@ -32,6 +32,6 @@
     </security>
     <application-desc main-class="shoddybattleclient.WelcomeWindow">
     <argument>sprites.PokemonSprite</argument>
-    <argument>http://shoddybattle.com/client/dpmovesets.db</argument>
+    <argument>https://pokemonlab.com/clients/shoddybattle/dpmovesets.db</argument>
     </application-desc>
 </jnlp> 

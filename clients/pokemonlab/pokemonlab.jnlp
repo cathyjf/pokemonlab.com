@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<jnlp codebase="http://poke-lab.com/pokelab-client/" href="pokelab.jnlp" spec="1.0+">
+<jnlp codebase="https://pokemonlab.com/clients/pokemonlab/" href="pokelab.jnlp" spec="1.0+">
     <information>
         <title>Pokemon Lab</title>
         <vendor>Cathy Fitzpatrick, Benjamin Gwin, and others</vendor>
-        <homepage href="http://poke-lab.com/"/>
+        <homepage href="https://pokemonlab.com/"/>
         <description>A pokemon battle simulator</description>
         <description kind="short">Pokemon Lab</description>
         <shortcut online="true">
             <desktop />
             <menu />
         </shortcut>
-        <icon href="http://poke-lab.com/client/icon.gif" width="64" height="64" />
+        <icon href="https://pokemonlab.com/clients/shoddybattle/icon.gif" width="64" height="64" />
     </information>
     <security>
         <all-permissions/>
